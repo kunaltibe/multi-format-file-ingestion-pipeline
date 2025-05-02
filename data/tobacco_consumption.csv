@@ -1,0 +1,650 @@
+YEAR,LocationAbbr,LocationDesc,TopicType,TopicDesc,MeasureDesc,DataSource,Response,Sample_Size,Gender,Age,Education
+2003,RI,Rhode Island,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,693,Overall,Age 25 and Older,<12th Grade
+1995-1996   ,UT,Utah,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1830,Overall,Age 20 and Older,>12th Grade
+2014-2015,US,National (States and DC),Smokefree Rules/Policies – Survey Data,Smokefree Rules in Homes (Adults),Smokefree Rules in Homes,TUS-CPS,,121865,Overall,All Ages,All Grades
+1998-1999   ,DC,District of Columbia,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,908,Male,All Ages,All Grades
+2001-2002,US,National (States and DC),Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,85135,Overall,All Ages,All Grades
+2014-2015,US,National (States and DC),Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,17849,Overall,All Ages,All Grades
+2006-2007   ,OR,Oregon,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,187,Male,All Ages,All Grades
+2010-2011,WV,West Virginia,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,232,Female,All Ages,All Grades
+2014-2015,WI,Wisconsin,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,273,Female,All Ages,All Grades
+1995-1996   ,MD,Maryland,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,1442,Female,All Ages,All Grades
+2001-2002,US,National (States and DC),Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,81060,Overall,All Ages,All Grades
+2014-2015,ME,Maine,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,506,Overall,All Ages,All Grades
+2006-2007,US,National (States and DC),Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,72541,Overall,All Ages,All Grades
+2001-2002,US,National (States and DC),Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,22062,Overall,All Ages,All Grades
+2010-2011,US,National (States and DC),Smokefree Rules/Policies – Survey Data,Smokefree Rules in Homes (Adults),Smokefree Rules in Homes,TUS-CPS,,120685,Overall,All Ages,All Grades
+1998-1999   ,NJ,New Jersey,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,3517,Female,All Ages,All Grades
+2010-2011,AR,Arkansas,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,1317,Female,All Ages,All Grades
+2014-2015,US,National (States and DC),Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,69059,Overall,All Ages,All Grades
+2001-2002   ,MS,Mississippi,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,482,Overall,65 Years and Older,All Grades
+1995-1996   ,OR,Oregon,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,2801,Overall,All Ages,All Grades
+2003,US,National (States and DC),Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,77666,Overall,All Ages,All Grades
+2010-2011,US,National (States and DC),Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,62956,Overall,All Ages,All Grades
+1995-1996   ,DC,District of Columbia,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,403,Overall,65 Years and Older,All Grades
+2014-2015,US,National (States and DC),Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,57774,Overall,All Ages,All Grades
+2014-2015,UT,Utah,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),Smoking Status,TUS-CPS,Current,1445,Male,All Ages,All Grades
+2010-2011,US,National (States and DC),Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,21217,Overall,All Ages,All Grades
+2003,HI,Hawaii,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,1634,Female,All Ages,All Grades
+1995-1996   ,VA,Virginia,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Never,1988,Female,All Ages,All Grades
+2006-2007,US,National (States and DC),Smokefree Rules/Policies – Survey Data,Smokefree Rules in Homes (Adults),Smokefree Rules in Homes,TUS-CPS,,123647,Overall,All Ages,All Grades
+2010-2011,OH,Ohio,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,2894,Male,All Ages,All Grades
+2006-2007,US,National (States and DC),Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,70031,Overall,All Ages,All Grades
+1998-1999   ,SC,South Carolina,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,1149,Male,All Ages,All Grades
+2006-2007,WI,Wisconsin,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,1577,Overall,All Ages,All Grades
+2014-2015,MI,Michigan,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),Smoking Status,TUS-CPS,Former,2432,Male,All Ages,All Grades
+2006-2007,US,National (States and DC),Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,17425,Overall,All Ages,All Grades
+2003,US,National (States and DC),Smokefree Rules/Policies – Survey Data,Smokefree Rules in Homes (Adults),Smokefree Rules in Homes,TUS-CPS,,126638,Overall,All Ages,All Grades
+2010-2011,US,National (States and DC),Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,74139,Overall,All Ages,All Grades
+2010-2011,OH,Ohio,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,393,Male,All Ages,All Grades
+2014-2015,UT,Utah,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,798,Female,18 to 44 Years,All Grades
+1998-1999   ,PA,Pennsylvania,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,3136,Overall,45 to 64 Years,All Grades
+2003,US,National (States and DC),Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,74343,Overall,All Ages,All Grades
+2003,TX,Texas,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,756,Female,All Ages,All Grades
+2001-2002,US,National (States and DC),Smokefree Rules/Policies – Survey Data,Smokefree Rules in Homes (Adults),Smokefree Rules in Homes,TUS-CPS,,125793,Overall,All Ages,All Grades
+2010-2011,VT,Vermont,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,1725,Male,All Ages,All Grades
+1998-1999   ,KS,Kansas,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,3005,Overall,All Ages,All Grades
+1992-1993   ,OR,Oregon,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,881,Female,18 to 44 Years,All Grades
+1995-1996   ,RI,Rhode Island,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,665,Overall,Age 25 and Older,12th Grade
+2003,US,National (States and DC),Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,19157,Overall,All Ages,All Grades
+2006-2007   ,IA,Iowa,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,944,Overall,All Ages,All Grades
+1998-1999   ,IA,Iowa,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,332,Overall,Age 20 and Older,<12th Grade
+1995-1996   ,AZ,Arizona,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,1512,Male,All Ages,All Grades
+2001-2002   ,RI,Rhode Island,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,405,Male,All Ages,All Grades
+1992-1993   ,GA,Georgia,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,403,Male,All Ages,All Grades
+2010-2011,ME,Maine,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,383,Female,All Ages,All Grades
+1998-1999   ,NE,Nebraska,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,846,Female,18 to 44 Years,All Grades
+2001-2002   ,NM,New Mexico,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,2663,Overall,All Ages,All Grades
+1992-1993   ,AR,Arkansas,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,2015,Female,All Ages,All Grades
+1995-1996   ,WV,West Virginia,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1504,Overall,Age 20 and Older,12th Grade
+2003,MD,Maryland,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,861,Overall,All Ages,All Grades
+1995-1996   ,MT,Montana,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,573,Overall,All Ages,All Grades
+2001-2002,WA,Washington,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,808,Female,All Ages,All Grades
+1992-1993   ,ND,North Dakota,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,15 to 25 Cigarettes,572,Overall,All Ages,All Grades
+1995-1996   ,WA,Washington,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,269,Female,All Ages,All Grades
+2003,WV,West Virginia,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,1959,Female,All Ages,All Grades
+1992-1993   ,CO,Colorado,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,1501,Male,All Ages,All Grades
+2010-2011,LA,Louisiana,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,2248,Overall,All Ages,All Grades
+2001-2002   ,CA,California,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,7470,Male,All Ages,All Grades
+2003,NV,Nevada,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,740,Overall,65 Years and Older,All Grades
+1998-1999   ,PA,Pennsylvania,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,9975,Overall,All Ages,All Grades
+1998-1999   ,UT,Utah,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,1636,Female,All Ages,All Grades
+1998-1999   ,NV,Nevada,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,1461,Male,All Ages,All Grades
+2006-2007   ,MO,Missouri,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,409,Overall,18 to 24 Years,All Grades
+2006-2007   ,NJ,New Jersey,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,412,Overall,All Ages,All Grades
+2006-2007,DC,District of Columbia,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1266,Male,All Ages,All Grades
+2003,NY,New York,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,7886,Overall,All Ages,All Grades
+2003,NC,North Carolina,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,837,Overall,Age 20 and Older,<12th Grade
+1998-1999   ,UT,Utah,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,,Overall,All Ages,All Grades
+2014-2015,TN,Tennessee,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,2122,Female,All Ages,All Grades
+2006-2007   ,GA,Georgia,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,564,Overall,18 to 24 Years,All Grades
+2006-2007   ,IL,Illinois,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,3502,Female,All Ages,All Grades
+2010-2011,MA,Massachusetts,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,424,Overall,All Ages,All Grades
+2003,UT,Utah,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,206,Male,All Ages,All Grades
+2010-2011,MO,Missouri,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1975,Female,All Ages,All Grades
+1995-1996   ,DC,District of Columbia,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,428,Overall,Age 25 and Older,<12th Grade
+2003,OK,Oklahoma,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,1506,Male,All Ages,All Grades
+1992-1993   ,AZ,Arizona,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,2774,Overall,All Ages,All Grades
+1992-1993   ,HI,Hawaii,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,793,Female,18 to 44 Years,All Grades
+2014-2015,MA,Massachusetts,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,4011,Overall,All Ages,All Grades
+2014-2015,UT,Utah,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,749,Overall,Age 20 and Older,12th Grade
+1992-1993,AR,Arkansas,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,799,Female,All Ages,All Grades
+2006-2007   ,LA,Louisiana,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,1140,Female,All Ages,All Grades
+2014-2015,IL,Illinois,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,1162,Female,All Ages,All Grades
+1998-1999   ,WV,West Virginia,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,795,Female,18 to 44 Years,All Grades
+2006-2007   ,UT,Utah,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,1417,Female,All Ages,All Grades
+1995-1996   ,GA,Georgia,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Former,2157,Female,All Ages,All Grades
+2014-2015,MO,Missouri,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1643,Male,All Ages,All Grades
+2014-2015,KY,Kentucky,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,1557,Male,All Ages,All Grades
+1998-1999   ,HI,Hawaii,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,,Overall,All Ages,All Grades
+1992-1993   ,NM,New Mexico,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,739,Overall,All Ages,All Grades
+1998-1999   ,TN,Tennessee,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,2824,Overall,All Ages,All Grades
+1992-1993,GA,Georgia,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,1102,Overall,All Ages,All Grades
+1992-1993   ,WY,Wyoming,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,446,Overall,All Ages,All Grades
+2010-2011,AL,Alabama,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,573,Overall,65 Years and Older,All Grades
+1992-1993   ,NE,Nebraska,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,2144,Female,All Ages,All Grades
+2006-2007,NV,Nevada,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,1827,Male,All Ages,All Grades
+2014-2015,UT,Utah,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,379,Overall,18 to 24 Years,All Grades
+2001-2002   ,WI,Wisconsin,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Former,4941,Overall,All Ages,All Grades
+2003,NV,Nevada,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,3168,Overall,All Ages,All Grades
+2003,VT,Vermont,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,1705,Male,All Ages,All Grades
+2010-2011,FL,Florida,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,4015,Male,All Ages,All Grades
+2006-2007,UT,Utah,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,437,Male,All Ages,All Grades
+2003,MO,Missouri,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Former,1943,Female,All Ages,All Grades
+2010-2011,RI,Rhode Island,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,3755,Overall,All Ages,All Grades
+1992-1993   ,LA,Louisiana,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,273,Female,All Ages,All Grades
+1998-1999   ,NY,New York,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,72,Overall,All Ages,All Grades
+2003,VT,Vermont,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1198,Overall,Age 25 and Older,12th Grade
+2003,KY,Kentucky,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,1706,Female,All Ages,All Grades
+1995-1996   ,TN,Tennessee,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,399,Female,All Ages,All Grades
+1995-1996,ME,Maine,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,227,Male,All Ages,All Grades
+2001-2002   ,TN,Tennessee,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,218,Male,All Ages,All Grades
+2010-2011,WI,Wisconsin,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,2397,Female,All Ages,All Grades
+2014-2015,NJ,New Jersey,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,2869,Overall,All Ages,All Grades
+1995-1996   ,GA,Georgia,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,1786,Male,All Ages,All Grades
+2010-2011,AZ,Arizona,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,>25 Cigarettes,123,Male,All Ages,All Grades
+1995-1996   ,IA,Iowa,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,,Overall,All Ages,All Grades
+2006-2007,WV,West Virginia,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,1500,Female,All Ages,All Grades
+2001-2002   ,OR,Oregon,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,739,Overall,All Ages,All Grades
+2003,WA,Washington,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Former,2176,Female,All Ages,All Grades
+1992-1993   ,FL,Florida,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,6644,Female,All Ages,All Grades
+2003,NV,Nevada,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,222,Overall,All Ages,All Grades
+2006-2007,NJ,New Jersey,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,2151,Male,All Ages,All Grades
+1998-1999   ,TX,Texas,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,2708,Overall,Age 25 and Older,12th Grade
+2006-2007   ,RI,Rhode Island,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,2058,Female,All Ages,All Grades
+2006-2007   ,AZ,Arizona,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,>25 Cigarettes,155,Male,All Ages,All Grades
+2010-2011,CT,Connecticut,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,2341,Male,All Ages,All Grades
+2010-2011,IL,Illinois,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Former,6639,Overall,All Ages,All Grades
+1995-1996   ,NH,New Hampshire,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,2357,Overall,All Ages,All Grades
+2001-2002   ,AL,Alabama,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,1620,Male,All Ages,All Grades
+2014-2015,NY,New York,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,8864,Overall,All Ages,All Grades
+2001-2002   ,LA,Louisiana,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,637,Overall,All Ages,All Grades
+1995-1996   ,NM,New Mexico,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1722,Female,All Ages,All Grades
+1998-1999   ,NV,Nevada,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,344,Female,All Ages,All Grades
+1998-1999,GA,Georgia,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,574,Female,All Ages,All Grades
+1992-1993   ,ND,North Dakota,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,2047,Female,All Ages,All Grades
+2014-2015,UT,Utah,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),Smoking Status,TUS-CPS,Former,1445,Male,All Ages,All Grades
+2014-2015,FL,Florida,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),Smoking Status,TUS-CPS,Current,4213,Male,All Ages,All Grades
+1992-1993   ,NV,Nevada,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,3011,Overall,All Ages,All Grades
+2006-2007   ,HI,Hawaii,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,1878,Female,All Ages,All Grades
+1998-1999   ,NV,Nevada,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,323,Overall,18 to 24 Years,All Grades
+2006-2007   ,TN,Tennessee,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,3103,Overall,All Ages,All Grades
+2014-2015,WV,West Virginia,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1584,Overall,45 to 64 Years,All Grades
+2010-2011,KY,Kentucky,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,3560,Overall,All Ages,All Grades
+2003,DE,Delaware,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,1642,Female,All Ages,All Grades
+1995-1996   ,AR,Arkansas,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,377,Male,All Ages,All Grades
+2001-2002   ,AR,Arkansas,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,15 to 25 Cigarettes,445,Overall,All Ages,All Grades
+2003,IN,Indiana,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,532,Male,All Ages,All Grades
+2001-2002,NY,New York,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,1879,Female,All Ages,All Grades
+1992-1993,MO,Missouri,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,297,Male,All Ages,All Grades
+2001-2002   ,ID,Idaho,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,1583,Female,All Ages,All Grades
+2014-2015,PA,Pennsylvania,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,310,Female,All Ages,All Grades
+2001-2002   ,OR,Oregon,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,1870,Male,All Ages,All Grades
+2010-2011,WY,Wyoming,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,2963,Overall,All Ages,All Grades
+2010-2011,IL,Illinois,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1759,Overall,Age 25 and Older,12th Grade
+1998-1999   ,FL,Florida,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,7861,Overall,All Ages,All Grades
+1998-1999,AZ,Arizona,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,416,Overall,All Ages,All Grades
+2014-2015,LA,Louisiana,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,2385,Female,All Ages,All Grades
+2010-2011,SC,South Carolina,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,738,Female,18 to 44 Years,All Grades
+2001-2002   ,AR,Arkansas,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,633,Female,18 to 44 Years,All Grades
+2001-2002   ,WI,Wisconsin,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,1099,Overall,All Ages,All Grades
+2010-2011,OK,Oklahoma,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,651,Female,18 to 44 Years,All Grades
+1998-1999   ,ID,Idaho,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,414,Male,All Ages,All Grades
+2014-2015,IN,Indiana,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,1892,Female,All Ages,All Grades
+1995-1996   ,OR,Oregon,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,886,Overall,Age 20 and Older,12th Grade
+1998-1999   ,MN,Minnesota,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,1688,Female,All Ages,All Grades
+2006-2007,WY,Wyoming,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Never,1417,Male,All Ages,All Grades
+2001-2002,CA,California,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,2888,Female,All Ages,All Grades
+1998-1999   ,TX,Texas,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1570,Overall,65 Years and Older,All Grades
+2014-2015,MT,Montana,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,4023,Overall,All Ages,All Grades
+2010-2011,ND,North Dakota,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Former,3037,Overall,All Ages,All Grades
+2010-2011,RI,Rhode Island,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,545,Overall,Age 20 and Older,<12th Grade
+2006-2007,WY,Wyoming,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1510,Female,All Ages,All Grades
+2006-2007,MS,Mississippi,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,941,Male,All Ages,All Grades
+1995-1996   ,MN,Minnesota,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,1758,Female,All Ages,All Grades
+2003,MT,Montana,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,521,Male,All Ages,All Grades
+1992-1993,WY,Wyoming,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,843,Overall,All Ages,All Grades
+1998-1999,NM,New Mexico,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,533,Female,All Ages,All Grades
+2006-2007,NY,New York,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Never,4990,Female,All Ages,All Grades
+2003,MD,Maryland,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,360,Overall,All Ages,All Grades
+2001-2002   ,AL,Alabama,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,1949,Female,All Ages,All Grades
+2003,NJ,New Jersey,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,1855,Male,All Ages,All Grades
+1998-1999,MN,Minnesota,Smokefree Rules/Policies – Survey Data,Smokefree Rules in Homes (Adults),Smokefree Rules in Homes,TUS-CPS,,1747,Overall,All Ages,All Grades
+2001-2002   ,CA,California,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,8380,Female,All Ages,All Grades
+2010-2011,WA,Washington,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Current,2035,Female,All Ages,All Grades
+2010-2011,HI,Hawaii,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,1667,Male,All Ages,All Grades
+2001-2002   ,WY,Wyoming,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Current,1743,Female,All Ages,All Grades
+2010-2011,AR,Arkansas,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,1196,Male,All Ages,All Grades
+1995-1996,RI,Rhode Island,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,177,Male,All Ages,All Grades
+2010-2011,MI,Michigan,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,2553,Male,All Ages,All Grades
+2010-2011,CO,Colorado,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,2173,Male,All Ages,All Grades
+1995-1996   ,KY,Kentucky,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,15 to 25 Cigarettes,633,Overall,All Ages,All Grades
+2014-2015,NM,New Mexico,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,3429,Overall,All Ages,All Grades
+1998-1999   ,PA,Pennsylvania,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,2225,Overall,All Ages,All Grades
+2010-2011,AR,Arkansas,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,567,Female,18 to 44 Years,All Grades
+1992-1993   ,TN,Tennessee,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,15 to 25 Cigarettes,758,Overall,All Ages,All Grades
+1998-1999   ,MN,Minnesota,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,931,Overall,Age 20 and Older,12th Grade
+2003,CO,Colorado,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,4673,Overall,All Ages,All Grades
+2010-2011,MN,Minnesota,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,2873,Female,All Ages,All Grades
+2010-2011,AK,Alaska,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,,Male,All Ages,All Grades
+2001-2002   ,ID,Idaho,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Never,3024,Overall,All Ages,All Grades
+2001-2002   ,CO,Colorado,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,281,Female,All Ages,All Grades
+1995-1996   ,GA,Georgia,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1696,Overall,25 to 44 Years,All Grades
+1998-1999   ,WA,Washington,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,1573,Female,All Ages,All Grades
+2010-2011,NM,New Mexico,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,425,Overall,All Ages,All Grades
+2010-2011,KY,Kentucky,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,3575,Overall,All Ages,All Grades
+1995-1996   ,LA,Louisiana,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,1578,Female,All Ages,All Grades
+2014-2015,TN,Tennessee,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,848,Female,18 to 44 Years,All Grades
+2001-2002   ,WV,West Virginia,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,374,Female,All Ages,All Grades
+1992-1993   ,MS,Mississippi,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,2244,Female,All Ages,All Grades
+2006-2007,HI,Hawaii,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,1561,Male,All Ages,All Grades
+1992-1993   ,MT,Montana,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,3770,Overall,All Ages,All Grades
+2014-2015,MD,Maryland,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,2179,Female,All Ages,All Grades
+1995-1996   ,MO,Missouri,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,1577,Female,All Ages,All Grades
+1998-1999   ,MS,Mississippi,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,604,Overall,All Ages,All Grades
+2014-2015,WY,Wyoming,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,3279,Overall,All Ages,All Grades
+2010-2011,AK,Alaska,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,1238,Male,All Ages,All Grades
+2003,NV,Nevada,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,2409,Female,All Ages,All Grades
+2003,OH,Ohio,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,3932,Female,All Ages,All Grades
+2014-2015,PA,Pennsylvania,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,318,Female,All Ages,All Grades
+1998-1999   ,NH,New Hampshire,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,1151,Male,All Ages,All Grades
+2006-2007   ,MI,Michigan,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1911,Overall,25 to 44 Years,All Grades
+1998-1999,AR,Arkansas,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,688,Female,All Ages,All Grades
+2003,WI,Wisconsin,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,4779,Overall,All Ages,All Grades
+1992-1993   ,OK,Oklahoma,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,937,Overall,All Ages,All Grades
+1998-1999   ,ME,Maine,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,232,Female,All Ages,All Grades
+2003,UT,Utah,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,3157,Overall,All Ages,All Grades
+2010-2011,AR,Arkansas,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,>25 Cigarettes,192,Male,All Ages,All Grades
+2006-2007   ,VA,Virginia,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,4655,Overall,All Ages,All Grades
+2014-2015,CO,Colorado,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,216,Male,All Ages,All Grades
+2010-2011,CA,California,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,9976,Female,All Ages,All Grades
+1995-1996   ,ID,Idaho,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1031,Overall,Age 25 and Older,12th Grade
+2014-2015,MO,Missouri,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,572,Overall,All Ages,All Grades
+2010-2011,MN,Minnesota,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,1276,Female,All Ages,All Grades
+2006-2007,MN,Minnesota,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,2859,Female,All Ages,All Grades
+1998-1999,TX,Texas,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,3459,Overall,All Ages,All Grades
+2014-2015,GA,Georgia,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),Smoking Status,TUS-CPS,Never,4892,Overall,All Ages,All Grades
+2003,RI,Rhode Island,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Current,2254,Female,All Ages,All Grades
+1995-1996   ,NH,New Hampshire,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,1108,Male,All Ages,All Grades
+2014-2015,ME,Maine,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,1639,Female,All Ages,All Grades
+1992-1993   ,MS,Mississippi,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,1845,Male,All Ages,All Grades
+1995-1996   ,MT,Montana,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1656,Overall,Age 20 and Older,>12th Grade
+2010-2011,CO,Colorado,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,180,Male,All Ages,All Grades
+2003,NM,New Mexico,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,851,Overall,All Ages,All Grades
+2001-2002   ,RI,Rhode Island,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,>25 Cigarettes,483,Overall,All Ages,All Grades
+2014-2015,NV,Nevada,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,408,Overall,All Ages,All Grades
+1992-1993   ,DE,Delaware,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,342,Overall,Age 25 and Older,<12th Grade
+1995-1996   ,MN,Minnesota,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1545,Male,All Ages,All Grades
+1992-1993   ,VT,Vermont,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,204,Male,All Ages,All Grades
+2010-2011,OH,Ohio,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,675,Overall,18 to 24 Years,All Grades
+2001-2002   ,MI,Michigan,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Current,6414,Overall,All Ages,All Grades
+2014-2015,CA,California,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,308,Female,All Ages,All Grades
+2014-2015,MD,Maryland,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1870,Male,All Ages,All Grades
+2003,MA,Massachusetts,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,479,Overall,Age 25 and Older,<12th Grade
+1992-1993,IN,Indiana,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,296,Female,All Ages,All Grades
+2006-2007   ,AZ,Arizona,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,1421,Male,All Ages,All Grades
+2001-2002   ,OH,Ohio,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,1181,Overall,All Ages,All Grades
+2006-2007   ,AR,Arkansas,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,1416,Female,All Ages,All Grades
+1992-1993   ,RI,Rhode Island,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,452,Overall,65 Years and Older,All Grades
+1992-1993   ,NV,Nevada,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,1546,Female,All Ages,All Grades
+2014-2015,UT,Utah,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,160,Overall,Age 25 and Older,<12th Grade
+2006-2007   ,ME,Maine,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,621,Overall,All Ages,All Grades
+1992-1993,GA,Georgia,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,1403,Overall,All Ages,All Grades
+1992-1993   ,NH,New Hampshire,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,,Overall,All Ages,All Grades
+1995-1996,WV,West Virginia,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,299,Male,All Ages,All Grades
+1998-1999   ,SD,South Dakota,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,3092,Overall,All Ages,All Grades
+2010-2011,IL,Illinois,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Never,3174,Male,All Ages,All Grades
+1992-1993   ,MI,Michigan,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,158,Overall,All Ages,All Grades
+2006-2007   ,FL,Florida,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,490,Male,All Ages,All Grades
+1992-1993   ,OH,Ohio,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,6741,Female,All Ages,All Grades
+2010-2011,NV,Nevada,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,176,Male,All Ages,All Grades
+1992-1993   ,CO,Colorado,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,1505,Male,All Ages,All Grades
+2001-2002   ,WA,Washington,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,590,Overall,All Ages,All Grades
+1995-1996   ,GA,Georgia,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,470,Male,All Ages,All Grades
+1995-1996,MO,Missouri,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,765,Female,All Ages,All Grades
+2003,TN,Tennessee,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,1545,Female,All Ages,All Grades
+1998-1999,KS,Kansas,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,593,Male,All Ages,All Grades
+2006-2007,FL,Florida,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,4378,Male,All Ages,All Grades
+2006-2007,KY,Kentucky,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Never,1863,Female,All Ages,All Grades
+2014-2015,IA,Iowa,Smokefree Rules/Policies – Survey Data,Smokefree Rules in Homes (Adults),Smokefree Rules in Homes,TUS-CPS,,1740,Overall,All Ages,All Grades
+2001-2002   ,SD,South Dakota,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,553,Overall,All Ages,All Grades
+1992-1993   ,HI,Hawaii,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,>25 Cigarettes,173,Female,All Ages,All Grades
+2014-2015,MT,Montana,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,3990,Overall,All Ages,All Grades
+2006-2007   ,NH,New Hampshire,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Current,5004,Overall,All Ages,All Grades
+2001-2002   ,MT,Montana,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,1273,Male,All Ages,All Grades
+1992-1993   ,KS,Kansas,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Former,1942,Female,All Ages,All Grades
+2003,NJ,New Jersey,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,325,Overall,All Ages,All Grades
+1998-1999   ,IN,Indiana,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,408,Female,All Ages,All Grades
+2003,CT,Connecticut,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,316,Male,All Ages,All Grades
+2001-2002   ,IN,Indiana,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,2371,Female,All Ages,All Grades
+1998-1999   ,CT,Connecticut,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1974,Overall,All Ages,All Grades
+1992-1993   ,WV,West Virginia,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,1719,Male,All Ages,All Grades
+1998-1999   ,NE,Nebraska,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1621,Overall,Age 20 and Older,>12th Grade
+2006-2007   ,MA,Massachusetts,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,2055,Overall,Age 20 and Older,>12th Grade
+2014-2015,GA,Georgia,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,2682,Female,All Ages,All Grades
+1998-1999,WV,West Virginia,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,563,Female,All Ages,All Grades
+1995-1996   ,IA,Iowa,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,15 to 25 Cigarettes,495,Overall,All Ages,All Grades
+2010-2011,MD,Maryland,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,2361,Male,All Ages,All Grades
+1998-1999,NJ,New Jersey,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,1165,Female,All Ages,All Grades
+1992-1993   ,MN,Minnesota,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,15 to 25 Cigarettes,323,Female,All Ages,All Grades
+2003,NV,Nevada,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,254,Overall,All Ages,All Grades
+2014-2015,GA,Georgia,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,2211,Male,All Ages,All Grades
+1992-1993,ND,North Dakota,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,1730,Overall,All Ages,All Grades
+1995-1996   ,NY,New York,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,2512,Overall,All Ages,All Grades
+2014-2015,NV,Nevada,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),Smoking Status,TUS-CPS,Former,1476,Male,All Ages,All Grades
+2001-2002   ,RI,Rhode Island,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,1952,Male,All Ages,All Grades
+1992-1993   ,ND,North Dakota,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,397,Male,All Ages,All Grades
+2001-2002   ,HI,Hawaii,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1116,Overall,25 to 44 Years,All Grades
+2006-2007   ,MD,Maryland,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,2866,Female,All Ages,All Grades
+2006-2007   ,ND,North Dakota,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,404,Overall,All Ages,All Grades
+1998-1999   ,UT,Utah,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,3039,Overall,All Ages,All Grades
+2014-2015,IN,Indiana,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1893,Overall,Age 20 and Older,>12th Grade
+1998-1999   ,CA,California,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,775,Female,All Ages,All Grades
+2014-2015,MN,Minnesota,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,4042,Overall,All Ages,All Grades
+1995-1996   ,GA,Georgia,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,>25 Cigarettes,311,Female,All Ages,All Grades
+2006-2007,NH,New Hampshire,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,1613,Overall,All Ages,All Grades
+2014-2015,TX,Texas,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,1517,Overall,All Ages,All Grades
+1992-1993   ,IN,Indiana,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,584,Overall,65 Years and Older,All Grades
+1995-1996   ,GA,Georgia,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,53,Overall,All Ages,All Grades
+2010-2011,NM,New Mexico,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,750,Male,All Ages,All Grades
+2003,SD,South Dakota,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,938,Female,18 to 44 Years,All Grades
+2014-2015,MT,Montana,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,363,Overall,18 to 24 Years,All Grades
+2010-2011,SC,South Carolina,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,605,Female,All Ages,All Grades
+2006-2007,IL,Illinois,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,6612,Overall,All Ages,All Grades
+1992-1993,WI,Wisconsin,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,2248,Overall,All Ages,All Grades
+2001-2002   ,WY,Wyoming,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,765,Overall,All Ages,All Grades
+2010-2011,OR,Oregon,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,493,Male,All Ages,All Grades
+2014-2015,MD,Maryland,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,387,Overall,All Ages,All Grades
+1992-1993   ,MT,Montana,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,3769,Overall,All Ages,All Grades
+2003,MS,Mississippi,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1117,Female,All Ages,All Grades
+2001-2002   ,MD,Maryland,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,1821,Male,All Ages,All Grades
+2003,UT,Utah,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Never,2573,Overall,All Ages,All Grades
+2010-2011,AZ,Arizona,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Current,1474,Female,All Ages,All Grades
+1995-1996,VA,Virginia,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,904,Female,All Ages,All Grades
+1998-1999   ,MO,Missouri,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,705,Female,18 to 44 Years,All Grades
+1998-1999   ,TN,Tennessee,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,15 to 25 Cigarettes,270,Female,All Ages,All Grades
+1992-1993   ,HI,Hawaii,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,2515,Overall,All Ages,All Grades
+2003,AL,Alabama,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,3394,Overall,All Ages,All Grades
+2010-2011,WV,West Virginia,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,1394,Female,All Ages,All Grades
+1995-1996   ,MD,Maryland,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1930,Overall,All Ages,All Grades
+2010-2011,LA,Louisiana,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,224,Male,All Ages,All Grades
+2010-2011,OH,Ohio,Smokefree Rules/Policies – Survey Data,Smokefree Rules in Homes (Adults),Smokefree Rules in Homes,TUS-CPS,,3327,Overall,All Ages,All Grades
+2006-2007,AK,Alaska,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,995,Overall,All Ages,All Grades
+1995-1996   ,RI,Rhode Island,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,177,Male,All Ages,All Grades
+1995-1996   ,HI,Hawaii,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,971,Male,All Ages,All Grades
+2003,IN,Indiana,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Never,2115,Female,All Ages,All Grades
+2001-2002   ,KS,Kansas,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,357,Overall,Age 25 and Older,<12th Grade
+2006-2007   ,MD,Maryland,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,838,Overall,All Ages,All Grades
+2010-2011,LA,Louisiana,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,155,Female,All Ages,All Grades
+1998-1999   ,UT,Utah,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,2978,Overall,All Ages,All Grades
+2003,MO,Missouri,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1713,Female,All Ages,All Grades
+2003,NC,North Carolina,Smokefree Rules/Policies – Survey Data,Smokefree Rules in Homes (Adults),Smokefree Rules in Homes,TUS-CPS,,2701,Overall,All Ages,All Grades
+1998-1999   ,ME,Maine,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,1248,Male,All Ages,All Grades
+2014-2015,VA,Virginia,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,703,Male,All Ages,All Grades
+1998-1999   ,ID,Idaho,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,1686,Male,All Ages,All Grades
+1995-1996   ,IN,Indiana,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,,Overall,All Ages,All Grades
+1992-1993,FL,Florida,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,1504,Male,All Ages,All Grades
+2014-2015,WY,Wyoming,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,1569,Male,All Ages,All Grades
+2001-2002   ,UT,Utah,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,1586,Female,All Ages,All Grades
+2001-2002,PA,Pennsylvania,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,1562,Female,All Ages,All Grades
+1998-1999   ,WI,Wisconsin,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,334,Female,All Ages,All Grades
+1998-1999   ,WY,Wyoming,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,3105,Overall,All Ages,All Grades
+2003,DC,District of Columbia,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,1045,Male,All Ages,All Grades
+1995-1996   ,NE,Nebraska,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,,Overall,All Ages,All Grades
+2014-2015,IA,Iowa,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,1480,Male,All Ages,All Grades
+1998-1999   ,DC,District of Columbia,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,264,Overall,All Ages,All Grades
+1995-1996   ,TX,Texas,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,4903,Male,All Ages,All Grades
+1992-1993   ,RI,Rhode Island,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,155,Male,All Ages,All Grades
+1998-1999   ,AK,Alaska,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,1170,Male,All Ages,All Grades
+2003,DE,Delaware,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1527,Overall,Age 20 and Older,>12th Grade
+1998-1999   ,AL,Alabama,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,625,Overall,Age 20 and Older,<12th Grade
+2010-2011,DC,District of Columbia,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,1371,Male,All Ages,All Grades
+2001-2002   ,IA,Iowa,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Former,4105,Overall,All Ages,All Grades
+2001-2002,AR,Arkansas,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,519,Female,All Ages,All Grades
+2010-2011,NH,New Hampshire,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,2530,Female,All Ages,All Grades
+2010-2011,MT,Montana,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Never,2241,Overall,All Ages,All Grades
+2014-2015,WV,West Virginia,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,308,Female,All Ages,All Grades
+2014-2015,WI,Wisconsin,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,1849,Male,All Ages,All Grades
+2003,WA,Washington,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,340,Overall,Age 25 and Older,<12th Grade
+2006-2007   ,MI,Michigan,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,278,Male,All Ages,All Grades
+1998-1999   ,DE,Delaware,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,346,Overall,All Ages,All Grades
+1995-1996   ,OK,Oklahoma,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,3586,Overall,All Ages,All Grades
+2006-2007,AR,Arkansas,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,219,Female,All Ages,All Grades
+2010-2011,TN,Tennessee,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,15 to 25 Cigarettes,234,Female,All Ages,All Grades
+2001-2002   ,MN,Minnesota,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,>25 Cigarettes,560,Overall,All Ages,All Grades
+2014-2015,NM,New Mexico,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1049,Overall,25 to 44 Years,All Grades
+2003,IA,Iowa,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,237,Male,All Ages,All Grades
+2006-2007   ,NM,New Mexico,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Former,1197,Female,All Ages,All Grades
+2006-2007   ,GA,Georgia,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,2492,Female,All Ages,All Grades
+1995-1996   ,SD,South Dakota,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,3376,Overall,All Ages,All Grades
+1995-1996   ,NE,Nebraska,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,1737,Female,All Ages,All Grades
+2006-2007   ,OK,Oklahoma,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,339,Overall,Age 25 and Older,<12th Grade
+1992-1993   ,MD,Maryland,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,2610,Overall,All Ages,All Grades
+2003,VA,Virginia,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,3639,Overall,All Ages,All Grades
+1998-1999   ,CO,Colorado,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,680,Overall,All Ages,All Grades
+2014-2015,VA,Virginia,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,>25 Cigarettes,346,Overall,All Ages,All Grades
+1998-1999   ,DC,District of Columbia,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,606,Female,18 to 44 Years,All Grades
+1998-1999,MN,Minnesota,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,222,Female,All Ages,All Grades
+1998-1999   ,ID,Idaho,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,3391,Overall,All Ages,All Grades
+1992-1993   ,RI,Rhode Island,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,1334,Female,All Ages,All Grades
+1998-1999   ,IL,Illinois,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1318,Overall,Age 20 and Older,<12th Grade
+2010-2011,MD,Maryland,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,2788,Female,All Ages,All Grades
+1998-1999   ,VT,Vermont,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,15 to 25 Cigarettes,169,Male,All Ages,All Grades
+2010-2011,RI,Rhode Island,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,2076,Overall,Age 20 and Older,>12th Grade
+2001-2002   ,RI,Rhode Island,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,1948,Male,All Ages,All Grades
+2003,HI,Hawaii,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,323,Overall,Age 20 and Older,<12th Grade
+2010-2011,VA,Virginia,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,1578,Overall,All Ages,All Grades
+2001-2002   ,NH,New Hampshire,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,4136,Overall,All Ages,All Grades
+1995-1996   ,MO,Missouri,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,2888,Overall,All Ages,All Grades
+1995-1996   ,IA,Iowa,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,1456,Male,All Ages,All Grades
+2010-2011,AL,Alabama,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,15 to 25 Cigarettes,141,Male,All Ages,All Grades
+2006-2007   ,CT,Connecticut,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,2392,Female,All Ages,All Grades
+2010-2011,RI,Rhode Island,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,789,Overall,65 Years and Older,All Grades
+2006-2007   ,UT,Utah,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Former,2747,Overall,All Ages,All Grades
+2006-2007   ,CA,California,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,859,Female,All Ages,All Grades
+2010-2011,WI,Wisconsin,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,1503,Overall,All Ages,All Grades
+2014-2015,VT,Vermont,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,,Overall,All Ages,All Grades
+1995-1996   ,IN,Indiana,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,889,Overall,All Ages,All Grades
+1995-1996,CT,Connecticut,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,128,Male,All Ages,All Grades
+1998-1999   ,WY,Wyoming,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,352,Male,All Ages,All Grades
+2006-2007   ,IA,Iowa,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,645,Overall,All Ages,All Grades
+1995-1996   ,WV,West Virginia,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,418,Overall,18 to 24 Years,All Grades
+2010-2011,OH,Ohio,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,141,Overall,All Ages,All Grades
+1992-1993   ,WV,West Virginia,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,1996,Female,All Ages,All Grades
+2006-2007   ,MA,Massachusetts,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,132,Male,All Ages,All Grades
+2010-2011,AZ,Arizona,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,1473,Female,All Ages,All Grades
+2014-2015,HI,Hawaii,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,,Male,All Ages,All Grades
+2003,AL,Alabama,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,1864,Female,All Ages,All Grades
+2003,SC,South Carolina,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Never,2304,Overall,All Ages,All Grades
+2006-2007   ,CO,Colorado,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Former,4623,Overall,All Ages,All Grades
+1992-1993   ,WA,Washington,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,1419,Male,All Ages,All Grades
+2010-2011,MN,Minnesota,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,284,Female,All Ages,All Grades
+2010-2011,DE,Delaware,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,3488,Overall,All Ages,All Grades
+2003,OK,Oklahoma,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,3184,Overall,All Ages,All Grades
+2014-2015,OK,Oklahoma,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Never,1757,Female,All Ages,All Grades
+2010-2011,NH,New Hampshire,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,4837,Overall,All Ages,All Grades
+1995-1996   ,WV,West Virginia,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,15 to 25 Cigarettes,388,Female,All Ages,All Grades
+2006-2007   ,ID,Idaho,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1545,Overall,Age 20 and Older,>12th Grade
+1995-1996   ,SC,South Carolina,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,742,Overall,45 to 64 Years,All Grades
+2014-2015,VT,Vermont,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,1104,Overall,All Ages,All Grades
+1995-1996,OK,Oklahoma,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,756,Female,All Ages,All Grades
+1998-1999   ,IN,Indiana,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Current,1702,Female,All Ages,All Grades
+1995-1996   ,WY,Wyoming,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,1500,Male,All Ages,All Grades
+2010-2011,LA,Louisiana,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,154,Female,All Ages,All Grades
+2010-2011,NH,New Hampshire,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,379,Male,All Ages,All Grades
+1998-1999   ,NY,New York,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Former,7299,Female,All Ages,All Grades
+1998-1999   ,MS,Mississippi,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,2839,Overall,All Ages,All Grades
+2003,NE,Nebraska,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Former,2046,Female,All Ages,All Grades
+2006-2007   ,VA,Virginia,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,385,Male,All Ages,All Grades
+2014-2015,MS,Mississippi,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,669,Female,All Ages,All Grades
+1998-1999   ,MT,Montana,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,496,Overall,All Ages,All Grades
+1992-1993   ,TX,Texas,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,5750,Male,All Ages,All Grades
+2003,OK,Oklahoma,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Former,3187,Overall,All Ages,All Grades
+1992-1993,HI,Hawaii,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,341,Overall,All Ages,All Grades
+2006-2007   ,TN,Tennessee,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,15 to 25 Cigarettes,214,Male,All Ages,All Grades
+2006-2007   ,TX,Texas,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,1054,Male,All Ages,All Grades
+1992-1993   ,VT,Vermont,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,2227,Overall,All Ages,All Grades
+2006-2007   ,VA,Virginia,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,446,Overall,All Ages,All Grades
+1998-1999   ,MT,Montana,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,1763,Female,All Ages,All Grades
+1992-1993   ,AL,Alabama,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,508,Male,All Ages,All Grades
+1995-1996   ,ID,Idaho,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,487,Overall,All Ages,All Grades
+1992-1993   ,OH,Ohio,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,1575,Male,All Ages,All Grades
+1995-1996,CT,Connecticut,Smokefree Rules/Policies – Survey Data,Smokefree Rules in Homes (Adults),Smokefree Rules in Homes,TUS-CPS,,1166,Overall,All Ages,All Grades
+1992-1993   ,GA,Georgia,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,1395,Male,All Ages,All Grades
+2010-2011,VT,Vermont,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,3450,Overall,All Ages,All Grades
+2003,AK,Alaska,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,555,Female,All Ages,All Grades
+2014-2015,TX,Texas,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,12055,Overall,All Ages,All Grades
+2010-2011,ND,North Dakota,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,515,Overall,All Ages,All Grades
+2014-2015,ND,North Dakota,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),Smoking Status,TUS-CPS,Former,1514,Female,All Ages,All Grades
+2010-2011,CT,Connecticut,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,5055,Overall,All Ages,All Grades
+2010-2011,NY,New York,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,4370,Male,All Ages,All Grades
+2010-2011,CT,Connecticut,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,2341,Male,All Ages,All Grades
+2006-2007   ,CO,Colorado,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,453,Overall,All Ages,All Grades
+2001-2002   ,DE,Delaware,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,176,Male,All Ages,All Grades
+1992-1993   ,LA,Louisiana,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,2823,Overall,All Ages,All Grades
+1995-1996,WA,Washington,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,599,Female,All Ages,All Grades
+2003,WA,Washington,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,509,Overall,18 to 24 Years,All Grades
+1995-1996   ,TN,Tennessee,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,<15 Cigarettes,310,Female,All Ages,All Grades
+2003,SC,South Carolina,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,903,Overall,Age 20 and Older,12th Grade
+2010-2011,NC,North Carolina,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Never,4735,Overall,All Ages,All Grades
+1992-1993   ,AK,Alaska,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,2699,Overall,All Ages,All Grades
+2001-2002,NC,North Carolina,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,414,Female,All Ages,All Grades
+2014-2015,OH,Ohio,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Current,3313,Female,All Ages,All Grades
+2014-2015,WV,West Virginia,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,4278,Overall,All Ages,All Grades
+2010-2011,MA,Massachusetts,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,249,Overall,All Ages,All Grades
+1998-1999   ,SC,South Carolina,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,865,Overall,45 to 64 Years,All Grades
+2006-2007   ,CA,California,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,18048,Overall,All Ages,All Grades
+2010-2011,HI,Hawaii,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,,Overall,All Ages,All Grades
+1998-1999   ,DE,Delaware,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,1083,Male,All Ages,All Grades
+2001-2002   ,NJ,New Jersey,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,5723,Overall,All Ages,All Grades
+1998-1999   ,MO,Missouri,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,218,Female,All Ages,All Grades
+2003,MN,Minnesota,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1966,Female,All Ages,All Grades
+1995-1996   ,AZ,Arizona,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,385,Male,All Ages,All Grades
+2006-2007,NM,New Mexico,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1202,Female,All Ages,All Grades
+2003,RI,Rhode Island,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,4207,Overall,All Ages,All Grades
+1998-1999   ,DC,District of Columbia,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,908,Male,All Ages,All Grades
+1992-1993   ,AL,Alabama,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,15 to 25 Cigarettes,326,Male,All Ages,All Grades
+2010-2011,SD,South Dakota,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,3650,Overall,All Ages,All Grades
+1992-1993   ,ID,Idaho,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,488,Overall,Age 25 and Older,<12th Grade
+1998-1999   ,VA,Virginia,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,15 to 25 Cigarettes,243,Male,All Ages,All Grades
+2010-2011,WV,West Virginia,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,2477,Overall,All Ages,All Grades
+2010-2011,DE,Delaware,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,,Female,All Ages,All Grades
+2006-2007,UT,Utah,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,2752,Overall,All Ages,All Grades
+1998-1999   ,IL,Illinois,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,4250,Male,All Ages,All Grades
+1992-1993,MT,Montana,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,951,Male,All Ages,All Grades
+1995-1996   ,OH,Ohio,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,1235,Male,All Ages,All Grades
+2006-2007   ,MT,Montana,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1408,Overall,Age 20 and Older,>12th Grade
+2001-2002   ,MT,Montana,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,796,Overall,Age 25 and Older,12th Grade
+1998-1999   ,HI,Hawaii,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,673,Overall,45 to 64 Years,All Grades
+1998-1999   ,SC,South Carolina,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,15 to 25 Cigarettes,355,Overall,All Ages,All Grades
+2003,AL,Alabama,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,342,Male,All Ages,All Grades
+2006-2007   ,HI,Hawaii,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,1878,Female,All Ages,All Grades
+2014-2015,NJ,New Jersey,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,325,Overall,Age 20 and Older,<12th Grade
+2006-2007   ,OH,Ohio,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,728,Female,All Ages,All Grades
+2006-2007,OR,Oregon,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Never,3273,Overall,All Ages,All Grades
+2014-2015,KS,Kansas,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Never,3262,Overall,All Ages,All Grades
+2014-2015,OK,Oklahoma,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,1757,Female,All Ages,All Grades
+1992-1993,WY,Wyoming,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,179,Male,All Ages,All Grades
+2014-2015,OR,Oregon,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,1759,Female,All Ages,All Grades
+1992-1993   ,AL,Alabama,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,3765,Overall,All Ages,All Grades
+2014-2015,SD,South Dakota,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,,Female,All Ages,All Grades
+1992-1993   ,SC,South Carolina,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,957,Overall,All Ages,All Grades
+2001-2002   ,MA,Massachusetts,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,590,Overall,Age 25 and Older,<12th Grade
+2003,AL,Alabama,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Current,1864,Female,All Ages,All Grades
+2006-2007,ME,Maine,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,2442,Female,All Ages,All Grades
+2003,MS,Mississippi,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,1305,Female,All Ages,All Grades
+1992-1993   ,NY,New York,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,10116,Female,All Ages,All Grades
+2014-2015,NE,Nebraska,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Never,3017,Overall,All Ages,All Grades
+2014-2015,AZ,Arizona,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,1750,Female,All Ages,All Grades
+2006-2007   ,NM,New Mexico,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,1196,Female,All Ages,All Grades
+1995-1996   ,VA,Virginia,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1517,Overall,25 to 44 Years,All Grades
+1998-1999   ,MA,Massachusetts,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,2722,Female,All Ages,All Grades
+1995-1996   ,NH,New Hampshire,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,>25 Cigarettes,215,Female,All Ages,All Grades
+1995-1996   ,NY,New York,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,2786,Overall,65 Years and Older,All Grades
+1998-1999   ,MS,Mississippi,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,1587,Female,All Ages,All Grades
+2003,WV,West Virginia,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,813,Overall,65 Years and Older,All Grades
+2014-2015,NM,New Mexico,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,,Female,All Ages,All Grades
+1995-1996,MI,Michigan,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,2088,Female,All Ages,All Grades
+1998-1999   ,CT,Connecticut,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,1119,Male,All Ages,All Grades
+1998-1999   ,TN,Tennessee,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,>25 Cigarettes,254,Male,All Ages,All Grades
+1998-1999   ,CT,Connecticut,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Never,1118,Male,All Ages,All Grades
+2003,WV,West Virginia,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Current,3618,Overall,All Ages,All Grades
+2010-2011,MS,Mississippi,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,216,Male,All Ages,All Grades
+2003,MS,Mississippi,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Current,1014,Male,All Ages,All Grades
+1992-1993,MA,Massachusetts,Smokefree Rules/Policies – Survey Data,Smokefree Rules in Homes (Adults),Smokefree Rules in Homes,TUS-CPS,,4983,Overall,All Ages,All Grades
+1998-1999,PA,Pennsylvania,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,1747,Male,All Ages,All Grades
+2014-2015,TX,Texas,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,1085,Female,All Ages,All Grades
+1992-1993   ,MT,Montana,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,492,Overall,Age 20 and Older,<12th Grade
+2010-2011,VA,Virginia,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,,Overall,All Ages,All Grades
+2006-2007   ,KY,Kentucky,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,1865,Female,All Ages,All Grades
+2014-2015,OR,Oregon,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,313,Overall,18 to 24 Years,All Grades
+2014-2015,WY,Wyoming,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,,Overall,Age 20 and Older,<12th Grade
+2006-2007   ,PA,Pennsylvania,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,1336,Overall,All Ages,All Grades
+2006-2007,MA,Massachusetts,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,966,Overall,All Ages,All Grades
+1995-1996   ,WA,Washington,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,340,Female,All Ages,All Grades
+2003,DE,Delaware,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1094,Male,All Ages,All Grades
+1995-1996   ,ME,Maine,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Never,1247,Male,All Ages,All Grades
+2001-2002   ,MN,Minnesota,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,2163,Male,All Ages,All Grades
+1995-1996   ,AK,Alaska,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,1060,Male,All Ages,All Grades
+2006-2007   ,IN,Indiana,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,437,Male,All Ages,All Grades
+2006-2007   ,UT,Utah,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,>25 Cigarettes,94,Male,All Ages,All Grades
+2003,WI,Wisconsin,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,969,Overall,All Ages,All Grades
+2001-2002   ,NC,North Carolina,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,2206,Male,All Ages,All Grades
+2001-2002   ,OK,Oklahoma,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Current,3227,Overall,All Ages,All Grades
+2003,CO,Colorado,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,2393,Female,All Ages,All Grades
+2003,WI,Wisconsin,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,2469,Female,All Ages,All Grades
+2006-2007   ,MO,Missouri,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,435,Female,All Ages,All Grades
+2010-2011,MS,Mississippi,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1029,Male,All Ages,All Grades
+1998-1999   ,NM,New Mexico,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Never,3177,Overall,All Ages,All Grades
+2014-2015,WI,Wisconsin,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,1874,Male,All Ages,All Grades
+2006-2007   ,SD,South Dakota,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,1933,Female,All Ages,All Grades
+2003,IA,Iowa,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,3360,Overall,All Ages,All Grades
+1998-1999   ,UT,Utah,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,3039,Overall,All Ages,All Grades
+1998-1999   ,NC,North Carolina,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Former,3136,Female,All Ages,All Grades
+2014-2015,PA,Pennsylvania,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,953,Female,All Ages,All Grades
+2006-2007,MD,Maryland,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,770,Female,All Ages,All Grades
+1998-1999   ,RI,Rhode Island,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,133,Male,All Ages,All Grades
+2001-2002   ,MT,Montana,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,1391,Female,All Ages,All Grades
+1995-1996   ,MO,Missouri,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,373,Female,All Ages,All Grades
+1992-1993   ,MA,Massachusetts,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,,Overall,All Ages,All Grades
+1992-1993   ,GA,Georgia,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Current,1403,Male,All Ages,All Grades
+2006-2007   ,KS,Kansas,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Current,1793,Female,All Ages,All Grades
+2006-2007,NE,Nebraska,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,502,Male,All Ages,All Grades
+1995-1996   ,AR,Arkansas,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,1703,Female,All Ages,All Grades
+1992-1993,MO,Missouri,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,732,Female,All Ages,All Grades
+2003,IL,Illinois,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Former,7872,Overall,All Ages,All Grades
+2006-2007   ,HI,Hawaii,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,3413,Overall,All Ages,All Grades
+1992-1993   ,NY,New York,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,18330,Overall,All Ages,All Grades
+2014-2015,WI,Wisconsin,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),Smoking Status,TUS-CPS,Former,1843,Male,All Ages,All Grades
+2010-2011,MO,Missouri,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Former,1955,Female,All Ages,All Grades
+2014-2015,IA,Iowa,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,3098,Overall,All Ages,All Grades
+2014-2015,UT,Utah,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,968,Overall,All Ages,All Grades
+1998-1999   ,OH,Ohio,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,865,Overall,All Ages,All Grades
+1992-1993   ,WA,Washington,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,1418,Male,All Ages,All Grades
+2010-2011,VA,Virginia,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,195,Male,All Ages,All Grades
+1995-1996   ,MN,Minnesota,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Former,1758,Female,All Ages,All Grades
+2014-2015,MT,Montana,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,15 to 25 Cigarettes,356,Overall,All Ages,All Grades
+2006-2007   ,ID,Idaho,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,>25 Cigarettes,267,Overall,All Ages,All Grades
+2003,IL,Illinois,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,3680,Male,All Ages,All Grades
+2003,MT,Montana,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,2604,Overall,All Ages,All Grades
+1998-1999   ,KY,Kentucky,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,1524,Female,All Ages,All Grades
+1995-1996,KY,Kentucky,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,1002,Overall,All Ages,All Grades
+2010-2011,NM,New Mexico,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,242,Overall,All Ages,All Grades
+2010-2011,NJ,New Jersey,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,154,Male,All Ages,All Grades
+2006-2007,RI,Rhode Island,Smokefree Rules/Policies – Survey Data,Smokefree Rules in Homes (Adults),Smokefree Rules in Homes,TUS-CPS,,2077,Overall,All Ages,All Grades
+1992-1993   ,DE,Delaware,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,15 to 25 Cigarettes,165,Male,All Ages,All Grades
+1995-1996   ,MO,Missouri,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Current,1311,Male,All Ages,All Grades
+2006-2007   ,DE,Delaware,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,3383,Overall,All Ages,All Grades
+2014-2015,OH,Ohio,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,587,Overall,All Ages,All Grades
+2006-2007,ME,Maine,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,1448,Overall,All Ages,All Grades
+1995-1996   ,MT,Montana,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,1784,Female,All Ages,All Grades
+2003,WY,Wyoming,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,1560,Male,All Ages,All Grades
+2001-2002   ,WV,West Virginia,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Former,3753,Overall,All Ages,All Grades
+1998-1999,MA,Massachusetts,Tobacco Use – Survey Data,Cessation (Adults),Percent of Former Smokers Among Ever Smokers,TUS-CPS,,897,Male,All Ages,All Grades
+1992-1993   ,TN,Tennessee,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,,Overall,All Ages,All Grades
+2003,IA,Iowa,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,637,Male,All Ages,All Grades
+1995-1996   ,NC,North Carolina,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,7703,Overall,All Ages,All Grades
+1992-1993   ,MO,Missouri,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,1521,Male,All Ages,All Grades
+2010-2011,AL,Alabama,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,1377,Female,All Ages,All Grades
+2001-2002   ,FL,Florida,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,5082,Female,All Ages,All Grades
+2003,IN,Indiana,Tobacco Use – Survey Data,Smokeless Tobacco Use (Adults),User Status,TUS-CPS,Never,2182,Male,All Ages,All Grades
+1992-1993   ,GA,Georgia,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Average,TUS-CPS,,247,Male,All Ages,All Grades
+1998-1999   ,OR,Oregon,Tobacco Use – Survey Data,Pipe Use (Adults),Smoking Status,TUS-CPS,Never,1488,Female,All Ages,All Grades
+2006-2007,NJ,New Jersey,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Status,TUS-CPS,Never,4645,Overall,All Ages,All Grades
+1998-1999   ,ND,North Dakota,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,636,Overall,All Ages,All Grades
+2014-2015,NE,Nebraska,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1010,Overall,45 to 64 Years,All Grades
+1998-1999   ,CO,Colorado,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,334,Overall,Age 20 and Older,<12th Grade
+2003,CT,Connecticut,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,458,Overall,Age 20 and Older,<12th Grade
+1992-1993   ,VA,Virginia,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,112,Overall,All Ages,All Grades
+1992-1993   ,HI,Hawaii,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,561,Overall,All Ages,All Grades
+2003,IN,Indiana,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,4602,Overall,All Ages,All Grades
+1992-1993   ,OK,Oklahoma,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Never,3512,Overall,All Ages,All Grades
+1998-1999   ,WV,West Virginia,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Former,3332,Overall,All Ages,All Grades
+2006-2007   ,MA,Massachusetts,Tobacco Use – Survey Data,Cigarette Use (Adults),Current Smoking,TUS-CPS,,1164,Overall,25 to 44 Years,All Grades
+2010-2011,SC,South Carolina,Tobacco Use – Survey Data,Cessation (Adults),Quit Attempt in Past Year Among Every Day Cigarette Smokers,TUS-CPS,,334,Overall,All Ages,All Grades
+1995-1996   ,SD,South Dakota,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Some Days,782,Overall,All Ages,All Grades
+2006-2007   ,MT,Montana,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,15 to 25 Cigarettes,296,Overall,All Ages,All Grades
+2010-2011,GA,Georgia,Tobacco Use – Survey Data,Cigarette Use (Adults),Smoking Frequency,TUS-CPS,Every Day,675,Overall,All Ages,All Grades
+2006-2007,OK,Oklahoma,Smokefree Rules/Policies – Survey Data,Smokefree Policies in Indoor Worksites (Adults),Smokefree Policies in Indoor Worksites,TUS-CPS,,626,Female,All Ages,All Grades
+1992-1993   ,CT,Connecticut,Tobacco Use – Survey Data,Cigarette Consumption (Adults),Daily Cigarette Consumption Among Every Day Smokers - Frequency Categories,TUS-CPS,15 to 25 Cigarettes,439,Overall,All Ages,All Grades
+2006-2007   ,WY,Wyoming,Tobacco Use – Survey Data,Cigar Use (Adults),Smoking Status,TUS-CPS,Current,2913,Overall,All Ages,All Grades
