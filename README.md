@@ -34,7 +34,7 @@ This project showcases a dynamic, metadata-driven ETL pipeline built with **Azur
 | File Name                | Format              | Target Table                  |
 |-------------------------|---------------------|-------------------------------|
 | `tobacco_consumption.csv` | Comma-delimited (`,`) | `Tobacco_Consumption_Dataset` |
-| `employee.txt`           | Pipe-delimited (`|`) | `Employee_Details`            |
+| `employee.txt`           | Pipe-delimited (`\|`) | `Employee_Details`            |
 | `pet_licenses.txt`       | Semicolon-delimited (`;`) | `Pet_Licenses_Dataset`        |
 
 ---
