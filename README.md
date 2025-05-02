@@ -83,6 +83,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/kunal-tibe)
 
 ---
 
-## 📝 License
+## License
 
 This project is open source for educational and portfolio purposes.
