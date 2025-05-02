@@ -1,0 +1,6 @@
+selected resource name:		ADLS2-to-Database
+selected resource type:		pipeline
+factory name:			df-DAMG7370
+factory location:		eastus
+subscription id:		037c35e9-fc3a-46a4-a480-830fdd7d1d07
+time of download (UTC):		Sun, 03 Mar 2024 21:25:58 GMT

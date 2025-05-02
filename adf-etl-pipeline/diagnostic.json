@@ -1,0 +1,23 @@
+{
+    "now": "2024-03-03T21:25:58.625Z",
+    "perfNow": 45602680.5,
+    "diagnosticCorrelation": "f7a2de59-81f3-460b-b5ec-ddd74a49fade",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.021624.1",
+        "environmentType": 3,
+        "resourceName": "df-DAMG7370",
+        "resourceRegion": "eastus",
+        "resourceGroup": "rg-DAMG7370",
+        "subscriptionId": "037c35e9-fc3a-46a4-a480-830fdd7d1d07",
+        "sessionId": "MT123w9Rnj6OW2DWmxigGf",
+        "operationId": "",
+        "gitType": "live",
+        "loggingKey": "ba045272-80dd-4300-a80c-dadc073e755e"
+    },
+    "additionalInfo": {
+        "selectedResource": "ADLS2-to-Database",
+        "selectedResourceType": "pipeline"
+    }
+}

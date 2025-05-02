@@ -1,0 +1,37 @@
+{
+    "name": "ds_sqldbDAMG7370",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "ls_sqldb DAMG7370",
+            "type": "LinkedServiceReference"
+        },
+        "parameters": {
+            "Table_Name": {
+                "type": "string"
+            }
+        },
+        "annotations": [],
+        "type": "AzureSqlTable",
+        "schema": [
+            {
+                "name": "File_Name",
+                "type": "nvarchar"
+            },
+            {
+                "name": "File_Delimiter",
+                "type": "nvarchar"
+            },
+            {
+                "name": "Target_Table",
+                "type": "nvarchar"
+            }
+        ],
+        "typeProperties": {
+            "schema": "dbo",
+            "table": {
+                "value": "@dataset().Table_Name",
+                "type": "Expression"
+            }
+        }
+    }
+}
