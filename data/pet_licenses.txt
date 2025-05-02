@@ -1,0 +1,700 @@
+License Issue Date;License Number;Animal's Name;Species;Primary Breed;Secondary Breed;ZIP Code
+December 18 2015;S107948;Zen;Cat;Domestic Longhair;Mix;98117
+June 14 2016;S116503;Misty;Cat;Siberian;;98117
+August 04 2016;S119301;Lyra;Cat;Mix;;98121
+February 13 2019;962273;Veronica;Cat;Domestic Longhair;;98107
+August 10 2019;S133113;Spider;Cat;LaPerm;;98115
+November 21 2019;8002549;Maxx;Cat;American Shorthair;;98125
+January 12 2020;S151906;Sammy;Cat;Domestic Shorthair;Mix;98116
+May 19 2020;8015649;Bradley;Cat;Siamese;;98101
+May 24 2020;S142869;Mickey;Cat;Domestic Longhair;;98126
+July 03 2020;S112835;Diamond;Cat;Domestic Shorthair;Mix;98103
+July 16 2020;83454;Dali;Cat;Domestic Shorthair;;98119
+July 21 2020;S131986;Nacho;Cat;Domestic Shorthair;Mix;98126
+August 18 2020;8019541;Gracie;Cat;Domestic Medium Hair;Mix;98133
+September 08 2020;S141990;Ramon;Cat;Domestic Shorthair;Mix;98116
+September 17 2020;8015827;Luna;Cat;Ragdoll;;98112
+November 03 2020;S112996;Pixel;Cat;Domestic Medium Hair;Mix;98112
+November 17 2020;S146576;C.C.;Cat;Domestic Shorthair;Mix;98117
+November 20 2020;77412;Gemma;Cat;Siamese;American Shorthair;98126
+November 24 2020;896993;Oliver;Cat;Domestic Longhair;Mix;98199
+December 15 2020;832271;Silky Frances;Cat;Domestic Shorthair;;98115
+December 20 2020;S114008;Jesse;Cat;Domestic Shorthair;Mix;98103
+December 23 2020;833148;Lucy;Cat;Domestic Shorthair;;98116
+January 18 2021;8025074;Ember;Cat;Domestic Medium Hair;Mix;98117
+January 23 2021;S147201;Fergus;Cat;Maine Coon;Mix;98125
+January 27 2021;8018982;Bones;Cat;Mix;;98122
+February 03 2021;8004418;Emme;Cat;Domestic Shorthair;Mix;98136
+February 16 2021;833680;Coal;Cat;Domestic Shorthair;;98115
+March 23 2021;8016704;Pip;Cat;Domestic Medium Hair;Mix;98118
+March 31 2021;8018252;Kekoa;Cat;American Shorthair;Mix;98112
+April 07 2021;19048;Rudy;Cat;Domestic Shorthair;;98103
+April 09 2021;8004956;Custo;Cat;Domestic Shorthair;Mix;98117
+April 10 2021;8015883;Edward;Cat;Domestic Shorthair;Mix;98103
+April 10 2021;S145248;Honey;Cat;Domestic Medium Hair;Mix;98144
+April 26 2021;S123490;Boots;Cat;Domestic Shorthair;Mix;98125
+April 28 2021;8008321;Cece;Cat;American Shorthair;Mix;98125
+May 02 2021;8028297;Noir;Cat;Mix;Mix;98103
+May 07 2021;273780;Taffy;Cat;Siamese;Mix;98125
+May 28 2021;S150479;Seamus;Cat;Domestic Shorthair;Mix;98104
+June 17 2021;S112839;Guinness;Cat;Domestic Shorthair;Mix;98133
+June 21 2021;S121230;Ebi;Cat;Domestic Medium Hair;;98119
+June 21 2021;S121231;Toro;Cat;Domestic Shorthair;;98119
+July 19 2021;8029709;Pippin;Cat;Persian;Mix;98105
+July 23 2021;133986;Milo;Cat;LaPerm;;98133
+July 23 2021;8030061;Luna Lovegood;Cat;Domestic Longhair;Mix;98117
+August 03 2021;S150617;Eugene;Cat;Domestic Shorthair;Mix;98125
+August 12 2021;8031685;Casper;Cat;Domestic Shorthair;;98126
+August 19 2021;8010082;Mouse;Cat;Domestic Shorthair;;98199
+August 31 2021;S143979;Olly;Cat;Domestic Shorthair;;98136
+September 10 2021;8032534;Oatey or odin;Cat;Maine Coon;;98199
+September 21 2021;8031624;Koa;Cat;Burmese;;98125
+September 25 2021;140426;Theodore;Cat;Domestic Shorthair;;98144
+October 06 2021;140669;Skimble;Cat;American Shorthair;;98116
+October 21 2021;8001165;Brie;Cat;American Shorthair;Mix;98105
+October 21 2021;85529;Cody;Cat;American Shorthair;;98105
+October 21 2021;732760;Gatsby;Cat;American Shorthair;;98105
+October 25 2021;8033726;Binu;Cat;Domestic Shorthair;Mix;98119
+October 28 2021;S153294;Mudflap;Cat;Domestic Longhair;Mix;98115
+October 29 2021;825012;Ricky;Cat;Norwegian Forest;;98136
+October 31 2021;S100358;Roushe;Cat;Domestic Shorthair;;98144
+"November 06 2021;204655;""Katie """"Kitty"""""";Cat;Domestic Shorthair;Siamese;98136"
+November 10 2021;S150979;Tom;Cat;Domestic Shorthair;Mix;98117
+November 11 2021;560462;Jóna;Cat;Domestic Shorthair;;98136
+November 15 2021;133600;Precious;Cat;Persian;;98121
+November 15 2021;8014960;Juno;Cat;Domestic Shorthair;Mix;98116
+November 26 2021;8028480;Louie;Cat;Domestic Shorthair;Mix;98125
+November 26 2021;8028478;Lyra;Cat;Domestic Shorthair;Siamese;98125
+December 06 2021;8028320;Zora;Cat;Ragdoll;;98109
+December 08 2021;74053;Franny;Cat;Domestic Shorthair;Norwegian Forest;98122
+December 09 2021;140706;Friar;Cat;Domestic Longhair;Mix;98133
+December 12 2021;8015180;Jiji;Cat;Maine Coon;Mix;98122
+December 13 2021;8034900;Catfish;Cat;Domestic Shorthair;Mix;98107
+December 15 2021;351170;Snowcap;Cat;Domestic Shorthair;;98112
+December 18 2021;434832;Yuki;Cat;Domestic Shorthair;;98125
+December 22 2021;8035084;Pumpkin;Cat;Domestic Shorthair;;98116
+December 31 2021;S139514;Hemingway;Cat;Domestic Shorthair;;98125
+December 31 2021;28239;Winnie;Cat;Domestic Shorthair;Mix;98117
+January 01 2022;8014738;Rosalind;Cat;Domestic Shorthair;;98109
+January 01 2022;S101684;Puck;Cat;Domestic Shorthair;Mix;98112
+January 01 2022;8035252;Marissa;Cat;Domestic Shorthair;Mix;98116
+January 01 2022;8015213;Marble;Cat;Mix;Mix;98144
+January 01 2022;8015212;Flint;Cat;Mix;Mix;98144
+January 01 2022;8035255;Dawson;Cat;Domestic Shorthair;Mix;98122
+January 02 2022;26417;Leo;Cat;Maine Coon;;98125
+January 02 2022;8015107;Oscar;Cat;Domestic Shorthair;Mix;98117
+January 02 2022;S157974;Gwenith;Cat;Domestic Longhair;Mix;98104
+January 02 2022;8035279;Vladimir;Cat;Domestic Shorthair;Mix;98133
+January 03 2022;S111130;Guru;Cat;Chinese Domestic;;98109
+January 03 2022;8014886;Susu;Cat;Domestic Shorthair;Mix;98112
+January 03 2022;S104310;Tamaki;Cat;Domestic Shorthair;Mix;98125
+January 03 2022;S104309;Benio;Cat;Domestic Shorthair;Mix;98125
+January 03 2022;S110376;Jack;Cat;Mix;Domestic Shorthair;98112
+January 03 2022;S110375;Archie;Cat;Mix;Domestic Shorthair;98112
+January 03 2022;S111266;Zuko;Cat;Siberian;;98112
+January 03 2022;S111265;Sokka;Cat;Siberian;;98112
+January 03 2022;S140229;Remington;Cat;Norwegian Forest;;98144
+January 03 2022;S110354;Magnus;Cat;Norwegian Forest;;98144
+January 03 2022;S157981;Dreidel;Cat;Domestic Shorthair;Mix;98116
+January 03 2022;8035317;Honey;Cat;Domestic Shorthair;Mix;98116
+January 03 2022;22145;Seahorse;Cat;Domestic Shorthair;;98122
+January 04 2022;S109831;Oreo;Cat;Siamese;Mix;98108
+January 04 2022;S127659;Barack Omid Duke;Cat;Domestic Shorthair;Mix;98103
+January 04 2022;8035340;Florencia;Cat;Mix;Mix;98122
+January 04 2022;8035343;Rylee;Cat;Domestic Medium Hair;Mix;98115
+January 04 2022;S151926;Jet;Cat;Domestic Shorthair;Mix;98115
+January 04 2022;S151927;Vickie;Cat;Snowshoe;Siamese;98115
+January 04 2022;S148858;Bespin;Cat;Ragdoll;;98119
+January 04 2022;8035345;Mr Cat;Cat;Domestic Shorthair;Mix;98126
+January 04 2022;S110516;Margo;Cat;Domestic Shorthair;;98133
+January 04 2022;8035361;Burt;Cat;American Shorthair;;98115
+January 04 2022;9268;Leo;Cat;Domestic Longhair;;98102
+January 05 2022;22689;Felix;Cat;Siamese;;98102
+January 05 2022;S111112;Petunia;Cat;Siberian;;98109
+January 05 2022;S109494;Scarlett;Cat;Domestic Medium Hair;Mix;98103
+January 05 2022;8014790;Pogo;Cat;Domestic Shorthair;Mix;98103
+January 05 2022;S109926;Jevon;Cat;American Shorthair;;98104
+January 05 2022;S111255;Geno;Cat;Domestic Shorthair;;98103
+January 05 2022;8014768;Socks;Cat;Siberian;;98112
+January 05 2022;8035397;Baby Girl;Cat;Domestic Medium Hair;Mix;98106
+January 06 2022;S137480;Crotalus;Cat;Domestic Shorthair;Mix;98107
+January 06 2022;S139086;Nemo;Cat;Domestic Shorthair;Mix;98199
+January 06 2022;S139087;Noche;Cat;Domestic Shorthair;Mix;98199
+January 06 2022;8014761;Luana;Cat;Tonkinese;;98125
+January 06 2022;8015733;Pip-squeak;Cat;Domestic Shorthair;Mix;98115
+January 06 2022;8035411;Bubbles;Cat;Domestic Medium Hair;Mix;98102
+January 06 2022;S111297;Mae;Cat;Domestic Shorthair;;98108
+January 07 2022;8015017;Oz;Cat;Maine Coon;Mix;98112
+January 07 2022;28528;Roscoe;Cat;Domestic Shorthair;;98118
+January 07 2022;S157046;Fortune;Cat;Domestic Shorthair;Mix;98109
+January 07 2022;S153320;Sven;Cat;Domestic Shorthair;Mix;98122
+January 08 2022;8035440;Leo;Cat;Chartreux;Mix;98146
+January 08 2022;S109828;Shade;Cat;Domestic Shorthair;;98136
+January 08 2022;S109827;Bugs Bunny;Cat;Manx;;98136
+January 08 2022;8014752;Cedar;Cat;Domestic Shorthair;Mix;98133
+January 09 2022;S157859;Bowzer;Cat;Domestic Longhair;;98115
+January 09 2022;8035459;Charlie;Cat;Domestic Shorthair;Siamese;98105
+January 09 2022;S148824;Abby;Cat;Domestic Shorthair;Mix;98125
+January 09 2022;S149280;Jack;Cat;American Shorthair;Mix;98122
+January 09 2022;S157994;Kris;Cat;Domestic Shorthair;Mix;98118
+January 09 2022;8014711;Bagheera;Cat;American Shorthair;Mix;98125
+January 09 2022;S157995;Momo;Cat;Domestic Shorthair;Mix;98199
+January 09 2022;8014989;Nora;Cat;American Shorthair;Mix;98116
+January 09 2022;S157996;Cheesecake;Cat;Domestic Shorthair;Mix;98103
+January 09 2022;8014977;Bonnie;Cat;Domestic Medium Hair;Mix;98119
+January 09 2022;17062;Bella;Cat;Domestic Shorthair;Mix;98115
+January 09 2022;431077;Boomer;Cat;Bengal;;98126
+January 10 2022;8035482;Clementine;Cat;American Shorthair;Mix;98107
+January 10 2022;S104327;Kobe;Cat;Domestic Medium Hair;Mix;98117
+January 10 2022;S104326;Jasper;Cat;Domestic Medium Hair;Mix;98117
+January 10 2022;S157998;Jaden;Cat;Domestic Shorthair;Mix;98103
+January 10 2022;S158101;Bustah Reign;Cat;Domestic Shorthair;Mix;98125
+January 10 2022;8035487;Napoli Monkee;Cat;Domestic Shorthair;Domestic Shorthair;98104
+January 10 2022;73527;Saela;Cat;Domestic Shorthair;;98122
+January 11 2022;8015270;Kota;Cat;Domestic Shorthair;Mix;98104
+January 11 2022;S110454;Suzy-Kitty;Cat;Domestic Longhair;;98108
+January 12 2022;28488;Daisy;Cat;Maine Coon;;98144
+January 12 2022;28484;Mickey;Cat;Maine Coon;;98144
+January 12 2022;S154393;Edgar;Cat;Domestic Medium Hair;Mix;98125
+January 12 2022;8035523;Milo;Cat;American Shorthair;Mix;98103
+January 12 2022;S110506;Clark;Cat;Domestic Shorthair;Maine Coon;98117
+January 12 2022;S110507;Lewis;Cat;Domestic Shorthair;Maine Coon;98117
+January 12 2022;S158117;Sookie;Cat;Domestic Shorthair;Mix;98104
+January 12 2022;28235;Jingle;Cat;Domestic Shorthair;;98112
+January 12 2022;8035536;Salmon;Cat;Domestic Shorthair;Mix;98117
+January 13 2022;S157860;Biscuit;Cat;Domestic Shorthair;Mix;98108
+January 13 2022;S157861;Taffy;Cat;Domestic Shorthair;Mix;98108
+January 13 2022;S157347;Emma;Cat;Maine Coon;Mix;98109
+January 13 2022;8035547;Fiona;Cat;Domestic Medium Hair;;98119
+January 13 2022;8035554;River Simpson;Cat;Domestic Shorthair;Mix;98115
+January 13 2022;22072;Beau;Cat;Domestic Medium Hair;;98121
+January 13 2022;S111017;Lona;Cat;Domestic Shorthair;Siamese;98125
+January 13 2022;S111018;Sydney;Cat;Domestic Shorthair;Siamese;98125
+January 13 2022;S134415;Ping;Cat;Domestic Shorthair;Mix;98119
+January 13 2022;S134416;Fenn;Cat;Siamese;Mix;98119
+January 13 2022;8035564;Dominic;Cat;Domestic Medium Hair;Mix;98126
+January 14 2022;8035575;Fish;Cat;American Shorthair;Mix;98102
+January 14 2022;8014755;Anjou;Cat;Chartreux;Mix;98103
+January 14 2022;8035585;Coquine;Cat;Colourpoint Shorthair;;98178
+January 15 2022;22130;Jasper;Cat;Domestic Medium Hair;;98115
+January 15 2022;28707;Mozart;Cat;Domestic Shorthair;;98136
+January 16 2022;S157865;Moxee;Cat;Domestic Shorthair;Mix;98103
+January 16 2022;S158123;Betty Boop;Cat;Domestic Shorthair;Mix;98118
+January 16 2022;8035626;Snuggles;Cat;American Shorthair;Mix;98125
+January 16 2022;S149274;Luigi;Cat;American Shorthair;Mix;98144
+January 17 2022;8035637;Wallace;Cat;Domestic Shorthair;Mix;98103
+January 18 2022;8035657;Minnie Anna Rose;Cat;Domestic Longhair;Mix;98117
+January 18 2022;S157355;Lala;Cat;Domestic Shorthair;Mix;98105
+January 18 2022;S118154;Kedi;Cat;American Shorthair;Domestic Shorthair;98106
+January 18 2022;8035661;Viktor;Cat;Siamese;Domestic Shorthair;98117
+January 18 2022;8015104;Oblia;Cat;Domestic Shorthair;;98107
+January 18 2022;22011;Mario;Cat;Domestic Shorthair;;98133
+January 18 2022;22367;Santiago;Cat;Domestic Medium Hair;;98103
+January 19 2022;8035684;Haddie;Cat;American Shorthair;Mix;98115
+January 19 2022;8035685;Biz;Cat;American Shorthair;Mix;98115
+January 19 2022;22327;Myelin;Cat;Domestic Medium Hair;;98112
+January 19 2022;22328;Basil;Cat;Domestic Shorthair;Siamese;98112
+January 19 2022;S148828;Theo;Cat;Domestic Shorthair;Mix;98106
+January 19 2022;S158133;Harvest;Cat;Domestic Shorthair;Mix;98125
+January 19 2022;S158135;Quark;Cat;Domestic Shorthair;Mix;98122
+January 20 2022;S157870;Jayce;Cat;Domestic Shorthair;Mix;98121
+January 20 2022;8035721;Minnie;Cat;Domestic Shorthair;;98144
+January 20 2022;8035724;Betsy;Cat;Domestic Shorthair;Mix;98144
+January 20 2022;S158140;Ginger;Cat;Siamese;Mix;98102
+January 21 2022;S157871;Sabine;Cat;Domestic Shorthair;Mix;98121
+January 21 2022;8035739;Snappy;Cat;Domestic Shorthair;Mix;98105
+January 21 2022;S158142;Divina;Cat;Domestic Medium Hair;Mix;98102
+January 21 2022;S158144;Lella;Cat;Domestic Shorthair;Mix;
+January 21 2022;S111204;Miyla Mae Fristensky;Cat;Domestic Shorthair;;98119
+January 21 2022;S158145;Poppy;Cat;American Shorthair;Mix;98119
+January 22 2022;8035775;Momo;Cat;American Shorthair;Mix;98103
+January 22 2022;S158151;Ember;Cat;Domestic Shorthair;Mix;98199
+January 22 2022;8035777;Eloise;Cat;Domestic Shorthair;Mix;98119
+January 22 2022;S158154;Cannellini Bean;Cat;Domestic Shorthair;Mix;98116
+January 22 2022;S100981;Ra's;Cat;Domestic Longhair;Mix;98199
+January 22 2022;S158155;Pollo Con Crema;Cat;Domestic Shorthair;Mix;98056
+January 23 2022;8035782;Wanda;Cat;Domestic Shorthair;Mix;98122
+January 23 2022;S137493;Louise;Cat;Domestic Shorthair;;98105
+January 23 2022;8015138;Annie;Cat;Domestic Shorthair;Mix;98115
+January 23 2022;8035797;Harper;Cat;Birman;Siamese;98146
+January 23 2022;8035798;Atticus;Cat;Domestic Shorthair;;98146
+January 23 2022;8035808;Zuul;Cat;Domestic Medium Hair;Mix;98125
+January 23 2022;8035809;Jack;Cat;Domestic Medium Hair;Mix;98125
+January 24 2022;S111308;Mackintosh;Cat;Domestic Shorthair;;98105
+January 24 2022;S111076;Pipsqueak;Cat;Domestic Longhair;;98125
+January 24 2022;22693;Pluto;Cat;Domestic Shorthair;;98122
+January 24 2022;S157366;Ollie Boo Boo;Cat;Domestic Shorthair;Mix;98105
+January 24 2022;8035825;Michael Kitt;Cat;American Shorthair;Mix;98115
+January 25 2022;S157872;Minion;Cat;Domestic Shorthair;Mix;98102
+January 25 2022;28314;Suri;Cat;Domestic Shorthair;;98107
+January 25 2022;28315;Moo Moo;Cat;Domestic Shorthair;;98107
+January 25 2022;19197;Rosie;Cat;Domestic Shorthair;;98107
+January 25 2022;S157371;Carlos;Cat;Domestic Longhair;Mix;98109
+January 25 2022;8015292;Bingo;Cat;Domestic Medium Hair;;98112
+January 26 2022;74401;Ella;Cat;Domestic Longhair;;98118
+January 26 2022;8035872;S'more;Cat;Norwegian Forest;Domestic Medium Hair;98144
+January 26 2022;S157610;Beanie;Cat;Domestic Shorthair;Mix;98103
+January 26 2022;8035876;Margot;Cat;Domestic Medium Hair;Mix;98104
+January 26 2022;S158157;Pebbles;Cat;Domestic Shorthair;Mix;98103
+January 26 2022;8035877;Daphne;Cat;Domestic Shorthair;Mix;98177
+January 26 2022;S153311;Dallas;Cat;Domestic Shorthair;Mix;98112
+January 26 2022;8015189;Nyx;Cat;Domestic Longhair;Mix;98168
+January 27 2022;8014972;Jo Jo;Cat;Abyssinian;;98109
+January 27 2022;28583;Lady Mari;Cat;Abyssinian;;98109
+January 27 2022;S158161;Whisp;Cat;Domestic Shorthair;Mix;98125
+January 27 2022;8035904;Pascale;Cat;Domestic Shorthair;Mix;98118
+January 27 2022;8035905;Piton;Cat;Domestic Shorthair;Mix;98118
+January 27 2022;S110408;Fred;Cat;Bombay;;98144
+January 28 2022;8035914;Cinnamon;Cat;Domestic Shorthair;Mix;98122
+January 28 2022;S110184;Carmen;Cat;Domestic Shorthair;;98133
+January 28 2022;S158169;Kenny;Cat;Domestic Longhair;Mix;98103
+January 28 2022;83507;Wasabi;Cat;Domestic Shorthair;;98103
+January 28 2022;8035927;Tuna;Cat;Maine Coon;Domestic Medium Hair;98122
+January 28 2022;8035928;Beef;Cat;Siamese;Bombay;98122
+January 28 2022;18516;Daisy;Cat;Domestic Shorthair;;98146
+January 28 2022;8035929;Awsee;Cat;Domestic Shorthair;;98199
+January 28 2022;8035930;Awsoo;Cat;Domestic Shorthair;;98199
+January 29 2022;S158172;Milo;Cat;Domestic Medium Hair;Mix;98122
+January 30 2022;S140184;Neil;Cat;Domestic Shorthair;;98103
+January 30 2022;8035952;Harriet;Cat;Russian Blue;Mix;98118
+January 30 2022;S157375;Licorice;Cat;Domestic Shorthair;Mix;98102
+January 30 2022;8014749;Slinky;Cat;Domestic Longhair;Mix;98121
+January 30 2022;S153308;Lorenzo;Cat;Domestic Shorthair;Mix;98102
+January 30 2022;8014868;Totopo;Cat;Maine Coon;Mix;98144
+January 30 2022;8004962;Odin;Cat;American Shorthair;Mix;98144
+January 30 2022;19066;McGee;Cat;Domestic Shorthair;;98146
+January 30 2022;8015052;Otto Dax;Cat;Domestic Shorthair;Mix;98105
+January 31 2022;S109938;Peaches;Cat;Domestic Shorthair;;98103
+January 31 2022;S109932;Leo;Cat;American Shorthair;;98177
+January 31 2022;S109930;Layla;Cat;American Shorthair;;98177
+January 31 2022;29170;Wes;Cat;Domestic Shorthair;;98144
+January 31 2022;85237;Smithy;Cat;Domestic Shorthair;;98144
+January 31 2022;77299;Charlie;Cat;Domestic Medium Hair;Maine Coon;98107
+January 31 2022;S139938;Dobby;Cat;Domestic Shorthair;;98115
+January 31 2022;S140681;Rowan;Cat;American Shorthair;Mix;98115
+January 31 2022;8035991;Nugget;Cat;Domestic Shorthair;Mix;98117
+January 31 2022;S154002;Pepper;Cat;Domestic Shorthair;Mix;98117
+January 31 2022;83596;Bongo;Cat;Burmese;Mix;98117
+January 31 2022;77040;Johnny Boots;Cat;Domestic Shorthair;;98117
+January 31 2022;S140432;Betty;Cat;American Shorthair;;98117
+January 31 2022;S109782;Polly;Cat;Domestic Shorthair;;98115
+January 31 2022;S109781;Manuel;Cat;Domestic Shorthair;;98115
+January 31 2022;S137580;Ado Annie;Cat;Domestic Medium Hair;Mix;98117
+January 31 2022;8015745;Frankie;Cat;Domestic Longhair;Mix;98102
+January 31 2022;77173;Bandit;Cat;Domestic Medium Hair;;98109
+January 31 2022;S110209;Leala;Cat;Mix;;98105
+January 31 2022;S140732;Mocha;Cat;Domestic Shorthair;Mix;98107
+January 31 2022;S149361;Buster;Cat;Domestic Shorthair;Mix;98119
+January 31 2022;S149360;Charlie;Cat;Domestic Shorthair;Mix;98119
+January 31 2022;8036019;Mochi;Cat;Domestic Longhair;Mix;98122
+January 31 2022;8036020;King;Cat;Russian Blue;Mix;98122
+January 31 2022;8015165;Ash;Cat;Domestic Medium Hair;Mix;98102
+January 31 2022;8036024;Lincoln;Cat;Domestic Shorthair;Mix;98103
+February 01 2022;74414;Jeremy;Cat;Domestic Shorthair;;98115
+February 01 2022;74243;Boots;Cat;Domestic Medium Hair;;98118
+February 01 2022;8015682;Thor;Cat;Ragdoll;;98106
+February 01 2022;S110732;Raleigh;Cat;Domestic Shorthair;Mix;98115
+February 01 2022;8014466;Elton;Cat;Domestic Shorthair;Mix;98107
+February 01 2022;8036035;Freddie;Cat;Manx;Mix;98107
+February 01 2022;S110926;Gracie;Cat;American Shorthair;Mix;98144
+February 01 2022;S140288;Stan;Cat;Domestic Shorthair;Mix;98136
+February 01 2022;8015756;Moose;Cat;American Shorthair;Mix;98122
+February 01 2022;8015433;Ronnie;Cat;Domestic Shorthair;Mix;98115
+February 01 2022;8015432;Reggie;Cat;Domestic Shorthair;Mix;98115
+February 01 2022;8015974;Figaro;Cat;Mix;Mix;98109
+February 01 2022;8015975;Chango;Cat;Mix;Mix;98109
+February 01 2022;S112313;Emma;Cat;Siberian;;98115
+February 01 2022;S154008;Marceline;Cat;Domestic Shorthair;Mix;98107
+February 01 2022;S109702;Shader;Cat;American Shorthair;Mix;98121
+February 01 2022;S109703;Hephaestus;Cat;American Shorthair;Mix;98121
+February 01 2022;22681;Juniper;Cat;Domestic Shorthair;;98199
+February 01 2022;S111094;Eloise;Cat;Domestic Shorthair;;98101
+February 01 2022;8015749;Holly;Cat;Domestic Medium Hair;Mix;98117
+February 01 2022;8015748;Penny;Cat;Domestic Shorthair;Mix;98117
+February 01 2022;S157615;Puffer;Cat;Domestic Shorthair;Mix;98125
+February 01 2022;8015815;Trappy;Cat;Abyssinian;Mix;98103
+February 01 2022;8036055;Hazel;Cat;Domestic Shorthair;Mix;98115
+February 01 2022;S140270;KitKat;Cat;Domestic Shorthair;;98115
+February 01 2022;8015599;Huck;Cat;Domestic Shorthair;Mix;98122
+February 01 2022;S110592;Bartholomew;Cat;Domestic Medium Hair;Mix;98122
+February 01 2022;S134463;Benny Jet;Cat;Domestic Shorthair;Mix;98104
+February 01 2022;8016040;Arya;Cat;American Shorthair;;98103
+February 01 2022;8016041;Sansa;Cat;American Shorthair;;98103
+February 02 2022;S139509;Totie;Cat;Domestic Shorthair;Mix;98177
+February 02 2022;77666;Gary Oak;Cat;Siamese;;98115
+February 02 2022;77667;Bea;Cat;Domestic Longhair;;98115
+February 02 2022;8015625;Helga;Cat;American Shorthair;Mix;98144
+February 02 2022;83139;Midi;Cat;Domestic Shorthair;;98125
+February 02 2022;S151990;Bernie;Cat;Domestic Shorthair;Mix;98032
+February 02 2022;S158176;Vettel;Cat;Domestic Shorthair;Mix;98102
+February 02 2022;83434;Rose;Cat;Domestic Shorthair;;98122
+February 02 2022;S157383;Verstappen;Cat;Domestic Shorthair;Mix;98105
+February 02 2022;S134448;Odette;Cat;Domestic Shorthair;Mix;98119
+February 02 2022;8015653;Poe;Cat;Domestic Shorthair;Mix;98106
+February 02 2022;8015652;Finn;Cat;Domestic Shorthair;Mix;98106
+February 02 2022;77182;Rocco;Cat;LaPerm;;98125
+February 02 2022;73450;Nutella;Cat;Domestic Shorthair;;98125
+February 02 2022;74341;Cottonina;Cat;British Shorthair;;98177
+February 02 2022;S158182;Chuey;Cat;Domestic Shorthair;Mix;98122
+February 02 2022;77424;Prudence;Cat;Domestic Shorthair;Russian Blue;98121
+February 02 2022;77425;Martha;Cat;Domestic Shorthair;Russian Blue;98121
+February 02 2022;S109282;Pabu;Cat;Domestic Longhair;;98117
+February 02 2022;S157386;Toast;Cat;Domestic Shorthair;Mix;98107
+February 02 2022;8036080;Cali;Cat;Domestic Shorthair;Mix;98103
+February 02 2022;8015587;Snowball;Cat;Siamese;Mix;98118
+February 02 2022;S139647;Julius;Cat;Domestic Medium Hair;;98115
+February 02 2022;S149278;Raven;Cat;Domestic Shorthair;Mix;98112
+February 02 2022;8036082;Madame Curie;Cat;Mix;Mix;98121
+February 03 2022;S104393;Griffin;Cat;Domestic Shorthair;Mix;98107
+February 03 2022;77293;ColbyJack;Cat;Domestic Longhair;;98115
+February 03 2022;S110693;Doobie;Cat;Domestic Shorthair;Mix;98109
+February 03 2022;8015423;Sunny aka Sunflower;Cat;Domestic Medium Hair;Mix;98105
+February 03 2022;8015424;Zoey aka Nemo;Cat;Domestic Medium Hair;Mix;98105
+February 03 2022;8036100;Buddy Guy;Cat;Domestic Medium Hair;;98136
+February 03 2022;23813;Marloh;Cat;Domestic Medium Hair;;98133
+February 03 2022;74235;Spooky;Cat;Domestic Shorthair;;98106
+February 03 2022;77263;Panda;Cat;Domestic Shorthair;;98117
+February 03 2022;S153963;Kit Kat;Cat;Domestic Shorthair;Mix;98103
+February 04 2022;8036118;Humboldt;Cat;Domestic Shorthair;;98107
+February 04 2022;28579;Sid;Cat;British Shorthair;;98144
+February 04 2022;28577;Solo;Cat;American Shorthair;;98144
+February 04 2022;83575;Thomasina;Cat;Domestic Shorthair;;98146
+February 04 2022;S158193;Prancer;Cat;Domestic Shorthair;Mix;98103
+February 04 2022;S140585;Tabatha;Cat;Domestic Shorthair;;98122
+February 04 2022;8015750;Sophie;Cat;Domestic Medium Hair;Mix;98107
+February 04 2022;8015751;Hank;Cat;Domestic Medium Hair;Mix;98107
+February 04 2022;8015534;Keavy;Cat;Domestic Shorthair;Mix;98108
+February 05 2022;S109809;Minerva;Cat;Domestic Medium Hair;;98199
+February 05 2022;8036141;Leopold Scotch;Cat;Domestic Shorthair;Mix;98121
+February 05 2022;S110744;Berlioz;Cat;Siamese;Domestic Shorthair;98102
+February 05 2022;S110747;Totoro;Cat;Domestic Shorthair;Mix;98115
+February 05 2022;S110746;Sooty;Cat;Domestic Shorthair;Mix;98115
+February 05 2022;337452;Monk;Cat;Domestic Shorthair;;98104
+February 05 2022;74249;Frimbo;Cat;Domestic Shorthair;;98109
+February 05 2022;74239;Ginger;Cat;Domestic Shorthair;;98109
+February 05 2022;S140191;Tux;Cat;Domestic Shorthair;;98122
+February 05 2022;S137790;Data;Cat;Domestic Shorthair;Mix;98106
+February 05 2022;S110022;Tykums;Cat;Domestic Longhair;Mix;98105
+February 05 2022;S151969;Harley;Cat;Japanese Bobtail;;98107
+February 05 2022;S110729;Claude;Cat;Domestic Shorthair;Mix;98125
+February 05 2022;S110730;Lilly;Cat;Domestic Shorthair;Mix;98125
+February 05 2022;S109688;Max;Cat;Domestic Shorthair;;98117
+February 05 2022;S109689;Madeline;Cat;Domestic Shorthair;;98117
+February 05 2022;S157059;;Cat;Domestic Medium Hair;Mix;98103
+February 05 2022;72191;Jack;Cat;Himalayan;;98146
+February 05 2022;S158506;Remi;Cat;Domestic Shorthair;Mix;98119
+February 05 2022;S158507;Rue;Cat;Domestic Shorthair;Mix;98119
+February 05 2022;8036149;Bruno;Cat;American Shorthair;Mix;98103
+February 05 2022;8036152;Nala;Cat;Domestic Shorthair;Mix;98101
+February 05 2022;S158510;Accent;Cat;Domestic Shorthair;Mix;98119
+February 05 2022;S158512;Sky;Cat;Domestic Shorthair;Mix;98144
+February 06 2022;8036167;Churro;Cat;Abyssinian;Mix;98058
+February 06 2022;S157389;Danika;Cat;Domestic Medium Hair;Mix;98122
+February 06 2022;77466;Pixel;Cat;Siamese;Domestic Longhair;98115
+February 06 2022;S157391;Lando;Cat;Domestic Medium Hair;Mix;98107
+February 06 2022;S111960;Margrete;Cat;Domestic Longhair;;98112
+February 06 2022;8036183;Pocari;Cat;Domestic Shorthair;Mix;98118
+February 07 2022;74336;Squeek;Cat;Domestic Shorthair;;98117
+February 07 2022;74335;Henry;Cat;Domestic Shorthair;;98117
+February 07 2022;8036194;Cricket;Cat;Domestic Medium Hair;Mix;98115
+February 07 2022;8036196;Emma;Cat;Domestic Shorthair;Mix;98125
+February 07 2022;S154218;Darla;Cat;Domestic Shorthair;Mix;98136
+February 07 2022;S157392;Ocon;Cat;Domestic Shorthair;Mix;98103
+February 07 2022;8036205;Jeffrey;Cat;Domestic Shorthair;Mix;98122
+February 07 2022;S157393;Lil' Steph;Cat;Domestic Shorthair;Mix;98102
+February 07 2022;8036206;Bingks;Cat;Bombay;Mix;98122
+February 07 2022;S157394;Gemini;Cat;Domestic Shorthair;Mix;98101
+February 07 2022;S157396;Rex;Cat;Domestic Shorthair;Mix;98136
+February 07 2022;S140190;Harper Mika;Cat;Domestic Shorthair;;98115
+February 07 2022;S127574;Mimsy;Cat;American Shorthair;;98104
+February 07 2022;S127575;Zora;Cat;American Shorthair;;98104
+February 07 2022;8036214;Ollie;Cat;Domestic Shorthair;Mix;98115
+February 08 2022;83516;Finn;Cat;Domestic Shorthair;;98115
+February 08 2022;83517;Jake;Cat;Domestic Shorthair;;98115
+February 08 2022;S127266;Anakin;Cat;Siamese;Mix;98125
+February 08 2022;8014600;Rumpelteazer;Cat;Domestic Shorthair;Mix;98112
+February 08 2022;8014601;Vickie Sue;Cat;Domestic Shorthair;Mix;98112
+February 08 2022;S112372;Charlie;Cat;Domestic Longhair;Mix;98125
+February 08 2022;S157397;Ares;Cat;Domestic Shorthair;Mix;98144
+February 08 2022;S143238;Sindarin;Cat;Burmese;Siamese;98199
+February 08 2022;83028;Viola;Cat;Domestic Shorthair;;98133
+February 08 2022;S157616;Wilbur;Cat;Domestic Shorthair;;98103
+February 08 2022;8036231;Midnight;Cat;Domestic Shorthair;Mix;98122
+February 08 2022;S157399;Butters;Cat;Siamese;Mix;98199
+February 08 2022;8036232;Licorice;Cat;American Shorthair;Mix;98107
+February 09 2022;8036239;Lucy;Cat;Domestic Shorthair;Mix;98115
+February 09 2022;8036241;Nia;Cat;Domestic Shorthair;Mix;98101
+February 09 2022;8015120;Starlily;Cat;Domestic Shorthair;Domestic Shorthair;98103
+February 09 2022;8015119;Echo;Cat;Domestic Shorthair;Domestic Shorthair;98103
+February 09 2022;S127754;Precious;Cat;Domestic Shorthair;Mix;98121
+February 09 2022;S127753;Tigger;Cat;Domestic Shorthair;Mix;98121
+February 09 2022;8036245;Loki;Cat;Domestic Shorthair;Mix;98107
+February 09 2022;8036256;Parker;Cat;Mix;Mix;98103
+February 10 2022;S157881;McLovin;Cat;Domestic Shorthair;Mix;98122
+February 10 2022;8036272;Sterling;Cat;Domestic Shorthair;Mix;98107
+February 10 2022;S139529;Elle Sara Fiannaca;Cat;Domestic Medium Hair;;98109
+February 10 2022;8015531;Kaya;Cat;Domestic Shorthair;Mix;98125
+February 10 2022;S108256;Izzy;Cat;Domestic Shorthair;Mix;98115
+February 10 2022;S108300;Sammi;Cat;Domestic Longhair;Mix;98115
+February 10 2022;S149283;Edgar;Cat;Domestic Shorthair;Mix;98126
+February 10 2022;S149284;Emily;Cat;Domestic Shorthair;Mix;98126
+February 10 2022;77670;Big Boy;Cat;Domestic Shorthair;;98109
+February 10 2022;77689;Boychik;Cat;Domestic Shorthair;;98109
+February 11 2022;8036284;Winston;Cat;Russian Blue;Mix;98108
+February 11 2022;8015969;Zuko;Cat;Domestic Shorthair;Mix;98102
+February 11 2022;S111853;Ella;Cat;Domestic Shorthair;;98115
+February 11 2022;S111852;Cinder;Cat;Domestic Shorthair;;98115
+February 11 2022;8036291;Tony;Cat;Domestic Shorthair;Mix;98122
+February 11 2022;83416;Mogget;Cat;Domestic Longhair;;98116
+February 11 2022;74214;Otto;Cat;Domestic Shorthair;Mix;98117
+February 11 2022;74209;Ulysses;Cat;Domestic Shorthair;Mix;98117
+February 11 2022;S158521;Portia;Cat;Domestic Longhair;Mix;98107
+February 11 2022;74498;Skippy;Cat;Siamese;;98119
+February 11 2022;74496;Jujubee;Cat;Siamese;;98119
+February 11 2022;74497;Jezavell;Cat;Siamese;;98119
+February 12 2022;S110716;Benedict;Cat;Domestic Shorthair;Mix;98115
+February 12 2022;73590;Woodstock;Cat;Siamese;Mix;98177
+February 12 2022;73589;Snoopy;Cat;Siamese;Mix;98177
+February 12 2022;S151988;Edgar;Cat;Domestic Shorthair;Mix;98107
+February 12 2022;S140642;Atlas;Cat;Russian Blue;;98121
+February 12 2022;S140735;Calliope;Cat;Russian Blue;;98121
+February 13 2022;8015699;WhiteCat;Cat;Domestic Longhair;Mix;98103
+February 13 2022;S140189;Tommy Cat;Cat;Domestic Shorthair;Mix;98121
+February 13 2022;S156965;Jolene;Cat;Domestic Medium Hair;Mix;98119
+February 13 2022;S156964;Ginger;Cat;Domestic Medium Hair;Mix;98119
+February 14 2022;8015345;Fiore;Cat;Domestic Shorthair;;98117
+February 14 2022;72565;Charlie;Cat;Domestic Shorthair;;98117
+February 14 2022;S111222;Mildred;Cat;Domestic Medium Hair;;98112
+February 14 2022;85004;Kiko;Cat;Siamese;;98101
+February 14 2022;8036349;Jake;Cat;Domestic Shorthair;Mix;98118
+February 14 2022;8036350;Elwwod;Cat;Domestic Shorthair;Mix;98118
+February 14 2022;8036352;Gimli;Cat;Domestic Shorthair;Mix;98102
+February 14 2022;8036353;Alfie;Cat;Domestic Shorthair;Mix;98102
+February 15 2022;8036358;Alala;Cat;Domestic Shorthair;Mix;98121
+February 15 2022;S140448;Berlina;Cat;Domestic Shorthair;;98177
+February 15 2022;77348;Mia;Cat;Domestic Shorthair;;98122
+February 16 2022;8036375;Rafiq;Cat;Domestic Longhair;Mix;98105
+February 16 2022;S140789;Cyrus Sterling Shiels;Cat;Siamese;;98117
+February 16 2022;S141021;Nikki;Cat;Domestic Shorthair;;98116
+February 16 2022;S141022;Yoda;Cat;Domestic Shorthair;;98116
+February 16 2022;S158534;Arya;Cat;American Shorthair;Mix;98104
+February 16 2022;S153306;Henry;Cat;Maine Coon;Domestic Longhair;98103
+February 16 2022;S141077;Sammy;Cat;Domestic Shorthair;;98136
+February 17 2022;8015895;Zibby;Cat;Domestic Shorthair;Mix;98106
+February 17 2022;S158540;River;Cat;Domestic Shorthair;;98118
+February 17 2022;S158539;Romeo;Cat;Domestic Longhair;;98118
+February 17 2022;S151958;Sweet Talk;Cat;Domestic Shorthair;Mix;98115
+February 18 2022;8036418;Vinny;Cat;Domestic Shorthair;Mix;98107
+February 18 2022;S157885;Mr. Hope;Cat;Domestic Shorthair;Mix;98103
+February 18 2022;S158544;Zelda;Cat;Domestic Shorthair;Mix;98119
+February 18 2022;S158545;Toast;Cat;Domestic Shorthair;Mix;98107
+February 19 2022;S140548;Lily;Cat;Domestic Shorthair;Domestic Shorthair;98109
+February 19 2022;8036447;Lemon;Cat;Domestic Shorthair;Mix;98121
+February 19 2022;8025851;Adelaide;Cat;Domestic Shorthair;Mix;98122
+February 19 2022;S158547;Eileen;Cat;Domestic Shorthair;Mix;98118
+February 19 2022;8036454;Dolores Esmarelda;Cat;Siberian;;98119
+February 19 2022;8036455;Ahri;Cat;Domestic Shorthair;Mix;98101
+February 19 2022;8036456;Luna;Cat;Russian Blue;;98101
+February 19 2022;8036462;Lola;Cat;American Shorthair;Mix;98027
+February 19 2022;8015624;Sammie;Cat;Domestic Shorthair;Mix;98119
+February 20 2022;S157888;Duchess;Cat;Domestic Medium Hair;Mix;98103
+February 20 2022;S111296;Gizmo;Cat;Domestic Shorthair;;98109
+February 20 2022;8036471;Tobias;Cat;Domestic Shorthair;;98107
+February 20 2022;8036472;Miles;Cat;Domestic Medium Hair;;98107
+February 20 2022;83523;Oscar;Cat;Maine Coon;;98118
+February 20 2022;S111452;Forrest;Cat;Domestic Shorthair;;98103
+February 20 2022;S110585;Boots;Cat;Domestic Shorthair;Mix;98117
+February 20 2022;8036486;Toby;Cat;Domestic Shorthair;Mix;98102
+February 21 2022;8036500;Mocha;Cat;Ragdoll;;98107
+February 21 2022;77188;Newt;Cat;Domestic Medium Hair;;98115
+February 21 2022;77187;Nerf;Cat;Domestic Medium Hair;;98115
+February 21 2022;S140343;Z.Z.;Cat;Domestic Shorthair;;98199
+February 21 2022;8036506;Catriona G. Tabadero;Cat;Maine Coon;Mix;98118
+February 22 2022;8036514;Elvis (was Milligan);Cat;Domestic Shorthair;Mix;98115
+February 22 2022;8036518;Miso;Cat;Siamese;Mix;98122
+February 22 2022;S156978;Dutch;Cat;Domestic Shorthair;Mix;98122
+February 23 2022;S127004;Nala;Cat;Domestic Shorthair;Domestic Shorthair;98178
+February 23 2022;S110239;Kitty;Cat;Domestic Medium Hair;;98117
+February 23 2022;S156980;Loce;Cat;Domestic Shorthair;Mix;98103
+February 23 2022;S140414;Isabella;Cat;Ragdoll;;98199
+February 23 2022;8036541;Otis;Cat;Siamese;Mix;98112
+February 23 2022;S110924;Autumn;Cat;Domestic Shorthair;Mix;98144
+February 23 2022;S140549;Snowball;Cat;Domestic Shorthair;;98199
+February 23 2022;S111935;Isabel;Cat;Domestic Shorthair;;98122
+February 23 2022;S158557;Lupin;Cat;Domestic Shorthair;Mix;98116
+February 23 2022;S158556;Hera;Cat;Domestic Shorthair;Mix;98116
+February 23 2022;8036544;Holden;Cat;Domestic Shorthair;Domestic Shorthair;98115
+February 23 2022;S119255;George Michael;Cat;Domestic Shorthair;Mix;98119
+February 23 2022;8015940;Moxi;Cat;American Shorthair;Mix;98109
+February 23 2022;8036555;Peregrin Pippin Took;Cat;Domestic Shorthair;Mix;98112
+February 24 2022;S154209;Cosmo;Cat;Domestic Shorthair;Mix;98122
+February 24 2022;S113068;Jenny;Cat;Domestic Longhair;;98117
+February 24 2022;140646;Sammy;Cat;Domestic Shorthair;;98117
+February 24 2022;S119175;Vivian;Cat;Domestic Medium Hair;Manx;98117
+February 24 2022;140647;Oznot;Cat;Domestic Longhair;;98117
+February 24 2022;S109352;Noodle;Cat;Domestic Shorthair;Mix;98144
+February 24 2022;8015441;Emmy;Cat;Domestic Shorthair;Mix;98115
+February 24 2022;8015440;Dempsey;Cat;Domestic Shorthair;Mix;98115
+February 24 2022;28544;Orzo Ross;Cat;Domestic Shorthair;;98115
+February 24 2022;S149332;Earl;Cat;Domestic Shorthair;Mix;98117
+February 24 2022;S158562;Aeronwen;Cat;Domestic Shorthair;Mix;98117
+February 24 2022;S139228;Professor Shorthair;Cat;Domestic Shorthair;;98115
+February 24 2022;64379;Samantha;Cat;Domestic Shorthair;;98105
+February 24 2022;S149335;Bombus;Cat;Ragdoll;Mix;98109
+February 24 2022;S110565;Smokey;Cat;Domestic Shorthair;;98122
+February 24 2022;S110566;Avishay;Cat;Domestic Shorthair;Mix;98122
+February 25 2022;S157890;Bisou;Cat;Domestic Shorthair;Mix;98103
+February 25 2022;S140466;Ron Weasley;Cat;Domestic Shorthair;Domestic Shorthair;98116
+February 25 2022;8036593;Addison;Cat;Mix;Mix;98115
+February 25 2022;8014681;Nyla;Cat;Domestic Shorthair;Mix;98121
+February 26 2022;8015038;Olivia;Cat;American Shorthair;Mix;98126
+February 26 2022;S153976;Jasmine;Cat;Domestic Shorthair;Mix;98117
+February 26 2022;133967;Lily Bell;Cat;Persian;Mix;98122
+February 26 2022;S123294;Sofie;Cat;Domestic Shorthair;;98109
+February 26 2022;S153966;Winona;Cat;Domestic Longhair;Mix;98116
+February 26 2022;29147;Mooshi;Cat;Domestic Shorthair;;98116
+February 26 2022;8016919;Tarantula;Cat;Domestic Shorthair;Mix;98103
+February 26 2022;S110133;Peter;Cat;Domestic Shorthair;;98112
+February 26 2022;S110134;Masha;Cat;Domestic Medium Hair;;98112
+February 27 2022;28639;Bucky;Cat;Domestic Medium Hair;;98115
+February 27 2022;8015491;Daschel;Cat;Domestic Shorthair;;98199
+February 27 2022;S148857;Stinker;Cat;Siamese;;98011
+February 27 2022;8036633;Nalle;Cat;Domestic Medium Hair;Domestic Medium Hair;98105
+February 27 2022;8014648;Tillie;Cat;Domestic Shorthair;Mix;98126
+February 27 2022;8014647;Taco;Cat;Domestic Shorthair;Mix;98126
+February 27 2022;18751;Marietta;Cat;Domestic Longhair;;98107
+February 27 2022;350828;Nelly;Cat;LaPerm;;98107
+February 28 2022;S110445;Kimmy;Cat;Domestic Shorthair;;98103
+February 28 2022;S110444;Zeb;Cat;Domestic Shorthair;;98103
+February 28 2022;S140196;Puma;Cat;Domestic Shorthair;Mix;98117
+February 28 2022;77283;Leopold;Cat;Domestic Longhair;;98108
+February 28 2022;8014774;Pumpkin;Cat;Domestic Medium Hair;Mix;98199
+February 28 2022;S110905;Loop;Cat;Ragdoll;Mix;98104
+February 28 2022;S110904;Lil;Cat;Ragdoll;Domestic Longhair;98104
+March 01 2022;8036668;DAVE;Cat;Domestic Shorthair;Mix;98105
+March 01 2022;203984;Zena;Cat;Ragdoll;;98199
+March 01 2022;8036680;Namu;Cat;Domestic Longhair;Mix;98144
+March 01 2022;76892;Gabby;Cat;Domestic Shorthair;;98126
+March 01 2022;S156984;Nebula;Cat;Domestic Shorthair;Mix;98133
+March 01 2022;18615;Camille;Cat;Siamese;Mix;98118
+March 02 2022;8036702;Dane;Cat;Domestic Medium Hair;Mix;98102
+March 02 2022;8036704;T.K.;Cat;Siamese;Mix;98199
+March 02 2022;S140685;Pazuzu;Cat;Domestic Shorthair;Mix;98144
+March 02 2022;8036712;Tundra;Cat;Domestic Shorthair;Mix;98133
+March 02 2022;8036727;Pumpkin;Cat;American Shorthair;Mix;98125
+March 02 2022;8036728;Chicken;Cat;Domestic Shorthair;Mix;98125
+March 03 2022;8036734;Abigail;Cat;Domestic Medium Hair;;98117
+March 03 2022;8036747;Bun;Cat;Domestic Shorthair;Manx;98107
+March 04 2022;8036749;Moça;Cat;Ragdoll;;98107
+March 04 2022;8036750;Leite;Cat;Ragdoll;;98107
+March 04 2022;8036772;Soda;Cat;Domestic Medium Hair;Mix;98105
+March 05 2022;8036782;Lucinda;Cat;Mix;Mix;98122
+March 05 2022;8036783;Sebastian;Cat;Mix;Mix;98122
+March 05 2022;S158584;Cloudy;Cat;Domestic Medium Hair;Mix;98102
+March 05 2022;S148886;Remi;Cat;Snowshoe;;98122
+March 06 2022;S110644;Neville;Cat;Domestic Shorthair;Mix;98144
+March 06 2022;68662;Ember;Cat;Domestic Shorthair;;98116
+March 06 2022;8036807;Holden Mako Alistair Bailey;Cat;American Shorthair;Mix;98105
+March 06 2022;8036808;Apollo;Cat;Domestic Shorthair;Mix;98107
+March 06 2022;S107510;Turnip Smith;Cat;Maine Coon;Domestic Medium Hair;98199
+March 06 2022;22680;Tucker;Cat;Domestic Shorthair;;98105
+March 06 2022;8015725;Violet;Cat;Domestic Shorthair;;98146
+March 07 2022;S108287;Kira;Cat;Domestic Shorthair;Mix;98177
+March 07 2022;S126288;Abby;Cat;Domestic Shorthair;Mix;98119
+March 07 2022;S156987;Athena;Cat;Domestic Shorthair;Mix;98104
+March 07 2022;S156988;Aphrodite;Cat;Domestic Shorthair;Mix;98104
+March 07 2022;S153964;Sancho;Cat;Maine Coon;;98118
+March 07 2022;S149397;Peaches;Cat;Domestic Shorthair;Burmese;98112
+March 07 2022;8006077;Baby Beth;Cat;Domestic Shorthair;Mix;98112
+March 07 2022;140148;Jasmine;Cat;Domestic Shorthair;;98118
+March 07 2022;S113288;Loki;Cat;Domestic Shorthair;;98199
+March 07 2022;S148926;Coco;Cat;Domestic Longhair;Mix;98103
+March 07 2022;129780;Blaze;Cat;Domestic Longhair;;98117
+March 07 2022;128400;Bunny;Cat;Domestic Longhair;;98117
+March 07 2022;129781;Belle;Cat;Domestic Longhair;;98117
+March 07 2022;8016211;Scout;Cat;Domestic Medium Hair;Mix;98103
+March 07 2022;8016112;Tiger;Cat;Domestic Shorthair;Mix;98103
+March 07 2022;133043;Taz;Cat;Domestic Shorthair;;98146
+March 07 2022;S141537;Emmy;Cat;Domestic Shorthair;;98115
+March 07 2022;119875;Lucy;Cat;Domestic Shorthair;;98112
+March 07 2022;8036838;Bonnie;Cat;Domestic Medium Hair;Mix;98117
+March 07 2022;S148927;Ozzy;Cat;Turkish Van;Mix;98103
+March 07 2022;8036839;Lion;Cat;Domestic Longhair;Mix;98199
+March 07 2022;8036840;Onyx;Cat;Domestic Longhair;Mix;98199
+March 07 2022;142286;Barney;Cat;LaPerm;;98106
+March 07 2022;S113726;Jack;Cat;Domestic Shorthair;;98115
+March 07 2022;129314;Sidney;Cat;Domestic Shorthair;Mix;98115
+March 07 2022;8017513;Sumi;Cat;Maine Coon;Mix;98115
+March 07 2022;8036844;Goose;Cat;Domestic Shorthair;Mix;98112
+March 08 2022;S141277;Cosmo;Cat;Domestic Shorthair;;98105
+March 08 2022;S141276;Luna;Cat;Domestic Shorthair;;98105
+March 08 2022;S111900;Bill;Cat;Domestic Medium Hair;Mix;98103
+March 08 2022;8036850;Oona;Cat;Bengal;;98108
+March 08 2022;8036851;Loki Skywalker;Cat;Bengal;;98108
+March 08 2022;S110071;Snowball;Cat;Domestic Shorthair;;98117
+March 08 2022;129463;Sahalee;Cat;Pixie-Bob;;98103
+March 08 2022;134195;Aki;Cat;Domestic Shorthair;;98115
+March 08 2022;208055;Rowan;Cat;Domestic Shorthair;;98115
+March 08 2022;S154229;Yin;Cat;Domestic Shorthair;Mix;98125
+March 08 2022;S154230;Yang;Cat;Domestic Shorthair;Mix;98125
+March 08 2022;8036855;Frodo;Cat;York Chocolate;Mix;98103
+March 08 2022;8016117;Boots;Cat;American Shorthair;Mix;98117
+March 08 2022;8016275;Kira;Cat;Domestic Shorthair;Mix;98106
+March 08 2022;S110834;Olivier;Cat;Domestic Shorthair;Mix;98117
+March 08 2022;8016345;Max;Cat;Domestic Shorthair;Mix;98116
+March 08 2022;8016344;Frankie;Cat;Domestic Shorthair;Mix;98116
+March 08 2022;S126868;Tucker;Cat;Domestic Shorthair;Mix;98121
+March 08 2022;8036870;Lilac;Cat;American Shorthair;Mix;98117
+March 08 2022;S130109;Seamus;Cat;Domestic Shorthair;Mix;98117
+March 08 2022;S157874;Zoey;Cat;Domestic Shorthair;Mix;98107
+March 08 2022;S157875;Sweet Pea;Cat;Domestic Shorthair;Mix;98107
+March 08 2022;S113882;Chai;Cat;Domestic Shorthair;;98117
+March 08 2022;S113883;Masala;Cat;Domestic Shorthair;;98117
+March 08 2022;134135;Gracie;Cat;Domestic Shorthair;;98117
+March 08 2022;S112480;Milo;Cat;Domestic Longhair;Maine Coon;98117
+March 09 2022;134145;Sylvanas;Cat;Norwegian Forest;Mix;98103
+March 09 2022;8016370;Luna;Cat;Domestic Shorthair;Mix;98144
+March 09 2022;83259;Watson;Cat;Domestic Shorthair;;98117
+March 09 2022;142129;Mocha;Cat;Ragdoll;;98125
+March 09 2022;S141534;Annie  (Tabby);Cat;Domestic Shorthair;;98103
+March 09 2022;S156991;Shadow;Cat;Domestic Shorthair;Mix;98103
+March 09 2022;S134465;Diesel;Cat;Domestic Shorthair;Mix;98103
+March 09 2022;S158591;Mr. Simba;Cat;Siamese;;98109
+March 09 2022;S141253;Tiana;Cat;Domestic Shorthair;;98199
+March 09 2022;S129110;Morris Boney T MacGuffie Hunter;Cat;Domestic Medium Hair;;98117
+March 09 2022;S158598;Millicent;Cat;Domestic Medium Hair;Mix;98102
+March 09 2022;140780;Booberry;Cat;Domestic Medium Hair;Mix;98125
+March 09 2022;8036903;Bandit;Cat;Domestic Longhair;Mix;98103
+March 09 2022;8036904;Smokey;Cat;Domestic Shorthair;Mix;98103
+March 09 2022;8016118;Eleanor;Cat;American Shorthair;Mix;98101
+March 10 2022;S157896;Nova;Cat;Domestic Shorthair;Mix;98105
+March 10 2022;133212;Daisy;Cat;Maine Coon;Domestic Medium Hair;98107
+March 10 2022;133222;Thumper;Cat;Domestic Medium Hair;Maine Coon;98107
+March 10 2022;128315;Kali;Cat;Domestic Shorthair;;98125
+March 10 2022;8016318;Bella Jane;Cat;Siamese;Mix;98125
+March 10 2022;133272;Priscilla;Cat;Domestic Longhair;;98107
+March 10 2022;8016131;Pesto;Cat;American Shorthair;Mix;98125
+March 10 2022;S158704;Mystery;Cat;Domestic Shorthair;Mix;98103
+March 10 2022;S131890;Akio;Cat;Burmese;;98117
+March 10 2022;S131889;Yoko;Cat;Burmese;;98117
+March 11 2022;895990;Mink;Cat;Domestic Longhair;;98112
+March 11 2022;133432;Cody;Cat;Domestic Medium Hair;;98107
+March 11 2022;S134479;Felicia;Cat;Domestic Shorthair;Mix;98117
+March 11 2022;8016060;Isla;Cat;Domestic Shorthair;Mix;98117
+March 11 2022;S141215;Dottie;Cat;Domestic Longhair;;98177
+March 12 2022;8016159;Valkyrie;Cat;Domestic Shorthair;Mix;98115
+March 12 2022;S141923;Ohana;Cat;Domestic Longhair;;98103
+March 12 2022;905279;Sasha;Cat;Siamese;Domestic Medium Hair;98115
+March 12 2022;8016354;Carlos;Cat;Maine Coon;Mix;98119
+March 12 2022;S157066;Mercury;Cat;Domestic Shorthair;Mix;98104
+March 12 2022;8036967;BJ;Cat;American Shorthair;Mix;98199
+March 12 2022;8036973;Cheddar;Cat;Domestic Shorthair;Mix;98115
+March 12 2022;8036977;Oskar Pritchard;Cat;Domestic Shorthair;Mix;98125
+March 12 2022;8036978;Creamy;Cat;Domestic Shorthair;;98103
+March 12 2022;140772;Frida;Cat;Domestic Shorthair;;98118
+March 12 2022;133789;Thumper;Cat;Domestic Shorthair;;98125
+March 13 2022;S157899;Honey Bun;Cat;Domestic Longhair;Mix;98107
+March 13 2022;S157900;Olga;Cat;Domestic Shorthair;Mix;98109
+March 13 2022;133309;Buddy;Cat;Domestic Shorthair;;98199
+March 13 2022;S156995;Bear;Cat;Domestic Medium Hair;;98117
+March 13 2022;133872;Ruby;Cat;Domestic Shorthair;;98125
